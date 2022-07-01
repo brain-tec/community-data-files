@@ -84,6 +84,7 @@ Authors
 
 * Numérigraphe SARL
 * Sistheo
+* braintec AG
 
 Contributors
 ~~~~~~~~~~~~
@@ -96,6 +97,9 @@ Contributors
 
   * Jairo Llopis
   * Ernesto Tejeda
+
+* braintec AG <https://braintec.com> :
+ * Jan-Frederic Schubert
 
 Maintainers
 ~~~~~~~~~~~

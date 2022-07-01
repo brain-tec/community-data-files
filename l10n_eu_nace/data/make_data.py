@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Copyright 2011 Numérigraphe SARL.
+# Copyright 2022 braintec AG
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 
@@ -37,12 +38,18 @@ LANGS = [
     "sv",
     "tr",
 ]
+# Override for braintec as we only need en,de,fr
+LANGS = [
+    "de",
+    "en",
+    "fr",
+]
 
 # All the generated record ids will be in this forms
 ID_TEMPLATE = "nace_%s"
 
 _logger.info("Generating the English CSV file...")
-src = csv.reader(open("NACE_REV2_en.csv", "rU"))
+src = csv.reader(open("NACE_REV2_en.csv", "r"))
 dest = csv.writer(open("res.partner.nace.csv", "w"), quoting=csv.QUOTE_ALL)
 # Write the file header
 dest.writerow(["id", "parent_id:id", "code", "name"])
@@ -55,7 +62,7 @@ english = {}
 for row in src:
     xml_id = ID_TEMPLATE % row[1].replace(".", "_")
     code = row[1]
-    name = row[2]
+    name = row[3]
     # determine the parent
     level = int(row[0])
     parent_id = parent_ids[level - 1]
@@ -69,7 +76,7 @@ _logger.info("Done.\n")
 for lang in LANGS:
     filename = lang != "en" and ("%s.po" % lang) or "l10n_eu_nace.pot"
     _logger.info("Generating %s..." % filename)
-    src = csv.reader(open("NACE_REV2_%s.csv" % lang, "rU"))
+    src = csv.reader(open("NACE_REV2_%s.csv" % lang, "r"))
     # Skip first line
     next(src)
     # Write file header
@@ -95,7 +102,7 @@ msgstr ""
 """
     )
     for row in src:
-        name = "[%s] %s" % (row[1], row[2])
+        name = "[%s] %s" % (row[1], row[3])
         xml_id = ID_TEMPLATE % row[1].replace(".", "_")
         dest.write(
             """#. module: l10n_eu_nace

@@ -6,3 +6,7 @@
 
   * Jairo Llopis
   * Ernesto Tejeda
+
+* braintec AG <https://braintec.com> :
+ * Jan-Frederic Schubert
+

@@ -117,10 +117,6 @@ msgstr "Anbau sonstiger mehrjähriger Pflanzen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_013
-msgid "Plant propagation"
-msgstr "Betrieb von Baumschulen, sowie Anbau von Pflanzen zu Vermehrungszwecken"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0130
 msgid "Plant propagation"
 msgstr "Betrieb von Baumschulen, sowie Anbau von Pflanzen zu Vermehrungszwecken"
@@ -132,13 +128,9 @@ msgstr "Tierhaltung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0141
-msgid "Raising of other cattle and buffaloes"
-msgstr "Haltung von Milchkühen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0141
 msgid "Raising of other cattle and buffaloes"
-msgstr "Haltung von anderen Rindern "
+msgstr "Haltung von Milchkühen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0142
@@ -172,10 +164,6 @@ msgstr "Sonstige Tierhaltung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_015
-msgid "Mixed farming"
-msgstr "Gemischte Landwirtschaft"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0150
 msgid "Mixed farming"
 msgstr "Gemischte Landwirtschaft"
@@ -207,10 +195,6 @@ msgstr "Saatgutaufbereitung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_017
-msgid "Hunting, trapping and related service activities"
-msgstr "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0170
 msgid "Hunting, trapping and related service activities"
 msgstr "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
@@ -222,40 +206,24 @@ msgstr "Forstwirtschaft und Holzeinschlag"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_021
-msgid "Silviculture and other forestry activities"
-msgstr "Forstwirtschaft"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0210
 msgid "Silviculture and other forestry activities"
 msgstr "Forstwirtschaft"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_022
-msgid "Logging"
-msgstr "Holzeinschlag"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0220
 msgid "Logging"
 msgstr "Holzeinschlag"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_023
-msgid "Gathering of wild growing non-wood products"
-msgstr "Sammeln von wildwachsenden Produkten (ohne Holz)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0230
 msgid "Gathering of wild growing non-wood products"
 msgstr "Sammeln von wildwachsenden Produkten (ohne Holz)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_024
-msgid "Support services to forestry"
-msgstr "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0240
 msgid "Support services to forestry"
 msgstr "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
@@ -307,20 +275,12 @@ msgstr "Kohlenbergbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_051
-msgid "Mining of hard coal"
-msgstr "Steinkohlenbergbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0510
 msgid "Mining of hard coal"
 msgstr "Steinkohlenbergbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_052
-msgid "Mining of lignite"
-msgstr "Braunkohlenbergbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0520
 msgid "Mining of lignite"
 msgstr "Braunkohlenbergbau"
@@ -332,20 +292,12 @@ msgstr "Gewinnung von Erdöl und Erdgas"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_061
-msgid "Extraction of crude petroleum"
-msgstr "Gewinnung von Erdöl"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0610
 msgid "Extraction of crude petroleum"
 msgstr "Gewinnung von Erdöl"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_062
-msgid "Extraction of natural gas"
-msgstr "Gewinnung von Erdgas"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0620
 msgid "Extraction of natural gas"
 msgstr "Gewinnung von Erdgas"
@@ -357,10 +309,6 @@ msgstr "Erzbergbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_071
-msgid "Mining of iron ores"
-msgstr "Eisenerzbergbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0710
 msgid "Mining of iron ores"
 msgstr "Eisenerzbergbau"
@@ -392,13 +340,9 @@ msgstr "Gewinnung von Natursteinen, Kies, Sand, Ton und Kaolin"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0810
-msgid "Operation of gravel and sand pits; mining of clays and kaolin"
-msgstr "Gewinnung von Naturwerksteinen und Natursteinen, Kalk- und Gipsstein, Kreide und Schiefer"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0810
 msgid "Operation of gravel and sand pits; mining of clays and kaolin"
-msgstr "Gewinnung von Kies, Sand, Ton und Kaolin"
+msgstr "Gewinnung von Naturwerksteinen und Natursteinen, Kalk- und Gipsstein, Kreide und Schiefer"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_089
@@ -432,20 +376,12 @@ msgstr "Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung 
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_091
-msgid "Support activities for petroleum and natural gas extraction"
-msgstr "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0910
 msgid "Support activities for petroleum and natural gas extraction"
 msgstr "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_099
-msgid "Support activities for other mining and quarrying"
-msgstr "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0990
 msgid "Support activities for other mining and quarrying"
 msgstr "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
@@ -467,25 +403,13 @@ msgstr "Schlachten und Fleischverarbeitung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1010
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1010
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1010
 msgid "Production of meat and poultry meat products"
 msgstr "Schlachten (ohne Schlachten von Geflügel)"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1010
-msgid "Production of meat and poultry meat products"
-msgstr "Schlachten von Geflügel"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1010
-msgid "Production of meat and poultry meat products"
-msgstr "Fleischverarbeitung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_102
-msgid "Processing and preserving of fish, crustaceans and molluscs"
-msgstr "Fischverarbeitung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1020
 msgid "Processing and preserving of fish, crustaceans and molluscs"
 msgstr "Fischverarbeitung"
@@ -497,18 +421,10 @@ msgstr "Obst- und Gemüseverarbeitung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1030
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1030
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1030
 msgid "Other processing and preserving of fruit and vegetables"
 msgstr "Kartoffelverarbeitung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1030
-msgid "Other processing and preserving of fruit and vegetables"
-msgstr "Herstellung von Frucht- und Gemüsesäften"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1030
-msgid "Other processing and preserving of fruit and vegetables"
-msgstr "Sonstige Verarbeitung von Obst und Gemüse"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_104
@@ -517,13 +433,9 @@ msgstr "Herstellung von pflanzlichen und tierischen Ölen und Fetten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1040
-msgid "Manufacture of margarine and similar edible fats"
-msgstr "Herstellung von Ölen und Fetten (ohne Margarine u. ä. Nahrungsfette)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1040
 msgid "Manufacture of margarine and similar edible fats"
-msgstr "Herstellung von Margarine u. ä. Nahrungsfetten"
+msgstr "Herstellung von Ölen und Fetten (ohne Margarine u. ä. Nahrungsfette)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_105
@@ -532,13 +444,9 @@ msgstr "Milchverarbeitung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1050
-msgid "Manufacture of ice cream"
-msgstr "Milchverarbeitung (ohne Herstellung von Speiseeis)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1050
 msgid "Manufacture of ice cream"
-msgstr "Herstellung von Speiseeis"
+msgstr "Milchverarbeitung (ohne Herstellung von Speiseeis)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_106
@@ -557,28 +465,20 @@ msgstr "Herstellung von Stärke und Stärkeerzeugnissen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_107
+#: model:res.partner.nace,name:l10n_eu_nace.nace_107
 msgid "Manufacture of other food products"
 msgstr "Herstellung von Back- und Teigwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1071
-msgid "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
-msgstr "Herstellung von Backwaren (ohne Dauerbackwaren)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1071
 msgid "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
-msgstr "Herstellung von Dauerbackwaren"
+msgstr "Herstellung von Backwaren (ohne Dauerbackwaren)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1074
 msgid "Manufacture of macaroni, noodles, couscous and similar farinaceous products"
 msgstr "Herstellung von Teigwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_107
-msgid "Manufacture of other food products"
-msgstr "Herstellung von sonstigen Nahrungsmitteln"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1072
@@ -592,28 +492,16 @@ msgstr "Herstellung von Süßwaren (ohne Dauerbackwaren)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1079
-msgid "Manufacture of other food products n.e.c."
-msgstr "Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1079
 msgid "Manufacture of other food products n.e.c."
-msgstr "Herstellung von Würzmitteln und Soßen"
+msgstr "Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1075
 msgid "Manufacture of prepared meals and dishes"
 msgstr "Herstellung von Fertiggerichten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
-msgid "Manufacture of other food products n.e.c."
-msgstr "Herstellung von homogenisierten und diätetischen Nahrungsmitteln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
-msgid "Manufacture of other food products n.e.c."
-msgstr "Herstellung von sonstigen Nahrungsmitteln a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_108
@@ -622,20 +510,12 @@ msgstr "Herstellung von Futtermitteln"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1080
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1080
 msgid "Manufacture of prepared pet foods"
 msgstr "Herstellung von Futtermitteln für Nutztiere"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1080
-msgid "Manufacture of prepared pet foods"
-msgstr "Herstellung von Futtermitteln für sonstige Tiere"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_11
-msgid "Manufacture of beverages"
-msgstr "Getränkeherstellung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_110
 msgid "Manufacture of beverages"
 msgstr "Getränkeherstellung"
@@ -647,28 +527,16 @@ msgstr "Herstellung von Spirituosen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1102
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1102
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1102
 msgid "Manufacture of other non-distilled fermented beverages"
 msgstr "Herstellung von Traubenwein"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1102
-msgid "Manufacture of other non-distilled fermented beverages"
-msgstr "Herstellung von Apfelwein und anderen Fruchtweinen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1102
-msgid "Manufacture of other non-distilled fermented beverages"
-msgstr "Herstellung von Wermutwein und sonstigen aromatisierten Weinen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1103
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1103
 msgid "Manufacture of malt"
 msgstr "Herstellung von Bier"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1103
-msgid "Manufacture of malt"
-msgstr "Herstellung von Malz"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1104
@@ -677,15 +545,7 @@ msgstr "Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralw�
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_12
-msgid "Manufacture of tobacco products"
-msgstr "Tabakverarbeitung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_120
-msgid "Manufacture of tobacco products"
-msgstr "Tabakverarbeitung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1200
 msgid "Manufacture of tobacco products"
 msgstr "Tabakverarbeitung"
@@ -697,6 +557,9 @@ msgstr "Herstellung von Textilien"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_131
+#: model:res.partner.nace,name:l10n_eu_nace.nace_131
+#: model:res.partner.nace,name:l10n_eu_nace.nace_131
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1313
 msgid "Finishing of textiles"
 msgstr "Spinnstoffaufbereitung und Spinnerei"
 
@@ -706,24 +569,9 @@ msgid "Preparation and spinning of textile fibres"
 msgstr "Spinnstoffaufbereitung und Spinnerei"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_131
-msgid "Finishing of textiles"
-msgstr "Weberei"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1312
 msgid "Weaving of textiles"
 msgstr "Weberei"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_131
-msgid "Finishing of textiles"
-msgstr "Veredlung von Textilien und Bekleidung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1313
-msgid "Finishing of textiles"
-msgstr "Veredlung von Textilien und Bekleidung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_139
@@ -752,18 +600,10 @@ msgstr "Herstellung von Seilerwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1399
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1399
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1399
 msgid "Manufacture of other textiles n.e.c."
 msgstr "Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1399
-msgid "Manufacture of other textiles n.e.c."
-msgstr "Herstellung von technischen Textilien"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1399
-msgid "Manufacture of other textiles n.e.c."
-msgstr "Herstellung von sonstigen Textilwaren a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_14
@@ -777,35 +617,15 @@ msgstr "Herstellung von Bekleidung (ohne Pelzbekleidung)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
 msgid "Manufacture of other wearing apparel and accessories"
 msgstr "Herstellung von Lederbekleidung"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr "Herstellung von Arbeits- und Berufsbekleidung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr "Herstellung von sonstiger Oberbekleidung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr "Herstellung von Wäsche"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr "Herstellung von sonstiger Bekleidung und Bekleidungszubehör a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_142
-msgid "Manufacture of articles of fur"
-msgstr "Herstellung von Pelzwaren"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1420
 msgid "Manufacture of articles of fur"
 msgstr "Herstellung von Pelzwaren"
@@ -817,13 +637,9 @@ msgstr "Herstellung von Bekleidung aus gewirktem und gestricktem Stoff"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1430
-msgid "Manufacture of other knitted and crocheted apparel"
-msgstr "Herstellung von Strumpfwaren"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1430
 msgid "Manufacture of other knitted and crocheted apparel"
-msgstr "Herstellung von sonstiger Bekleidung aus gewirktem und gestricktem Stoff"
+msgstr "Herstellung von Strumpfwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_15
@@ -847,10 +663,6 @@ msgstr "Lederverarbeitung (ohne Herstellung von Lederbekleidung)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_152
-msgid "Manufacture of footwear"
-msgstr "Herstellung von Schuhen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1520
 msgid "Manufacture of footwear"
 msgstr "Herstellung von Schuhen"
@@ -862,10 +674,6 @@ msgstr "Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_161
-msgid "Sawmilling and planing of wood"
-msgstr "Säge-, Hobel- und Holzimprägnierwerke"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1610
 msgid "Sawmilling and planing of wood"
 msgstr "Säge-, Hobel- und Holzimprägnierwerke"
@@ -882,13 +690,9 @@ msgstr "Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1622
-msgid "Manufacture of other builders' carpentry and joinery"
-msgstr "Herstellung von Parketttafeln"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1622
 msgid "Manufacture of other builders' carpentry and joinery"
-msgstr "Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz"
+msgstr "Herstellung von Parketttafeln"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1623
@@ -907,23 +711,15 @@ msgstr "Herstellung von Papier, Pappe und Waren daraus"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_170
+#: model:res.partner.nace,name:l10n_eu_nace.nace_170
 msgid "Manufacture of articles of paper and paperboard "
 msgstr "Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1701
-msgid "Manufacture of paper and paperboard"
-msgstr "Herstellung von Holz- und Zellstoff"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1701
 msgid "Manufacture of paper and paperboard"
-msgstr "Herstellung von Papier, Karton und Pappe"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_170
-msgid "Manufacture of articles of paper and paperboard "
-msgstr "Herstellung von Waren aus Papier, Karton und Pappe"
+msgstr "Herstellung von Holz- und Zellstoff"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1702
@@ -932,23 +728,11 @@ msgstr "Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus P
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1709
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1709
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1709
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1709
 msgid "Manufacture of other articles of paper and paperboard"
 msgstr "Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1709
-msgid "Manufacture of other articles of paper and paperboard"
-msgstr "Herstellung von Schreibwaren und Bürobedarf aus Papier, Karton und Pappe"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1709
-msgid "Manufacture of other articles of paper and paperboard"
-msgstr "Herstellung von Tapeten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1709
-msgid "Manufacture of other articles of paper and paperboard"
-msgstr "Herstellung von sonstigen Waren aus Papier, Karton und Pappe"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_18
@@ -962,30 +746,18 @@ msgstr "Herstellung von Druckerzeugnissen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1811
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1811
 msgid "Other printing"
 msgstr "Drucken von Zeitungen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1811
-msgid "Other printing"
-msgstr "Drucken a. n. g."
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1812
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1812
 msgid "Binding and related services"
 msgstr "Druck- und Medienvorstufe"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1812
-msgid "Binding and related services"
-msgstr "Binden von Druckerzeugnissen und damit verbundene Dienstleistungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_182
-msgid "Reproduction of recorded media"
-msgstr "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1820
 msgid "Reproduction of recorded media"
 msgstr "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
@@ -997,20 +769,12 @@ msgstr "Kokerei und Mineralölverarbeitung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_191
-msgid "Manufacture of coke oven products"
-msgstr "Kokerei"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1910
 msgid "Manufacture of coke oven products"
 msgstr "Kokerei"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_192
-msgid "Manufacture of refined petroleum products"
-msgstr "Mineralölverarbeitung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1920
 msgid "Manufacture of refined petroleum products"
 msgstr "Mineralölverarbeitung"
@@ -1027,23 +791,11 @@ msgstr "Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffver
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2011
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2011
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2011
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2011
 msgid "Manufacture of other organic basic chemicals"
 msgstr "Herstellung von Industriegasen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2011
-msgid "Manufacture of other organic basic chemicals"
-msgstr "Herstellung von Farbstoffen und Pigmenten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2011
-msgid "Manufacture of other organic basic chemicals"
-msgstr "Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2011
-msgid "Manufacture of other organic basic chemicals"
-msgstr "Herstellung von sonstigen organischen Grundstoffen und Chemikalien"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2012
@@ -1052,15 +804,14 @@ msgstr "Herstellung von Düngemitteln und Stickstoffverbindungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2013
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2013
 msgid "Manufacture of synthetic rubber in primary forms"
 msgstr "Herstellung von Kunststoffen in Primärformen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2013
-msgid "Manufacture of synthetic rubber in primary forms"
-msgstr "Herstellung von synthetischem Kautschuk in Primärformen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_202
+#: model:res.partner.nace,name:l10n_eu_nace.nace_202
+#: model:res.partner.nace,name:l10n_eu_nace.nace_202
 #: model:res.partner.nace,name:l10n_eu_nace.nace_202
 msgid "Manufacture of other chemical products"
 msgstr "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
@@ -1071,61 +822,26 @@ msgid "Manufacture of pesticides and other agrochemical products"
 msgstr "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_202
-msgid "Manufacture of other chemical products"
-msgstr "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2022
 msgid "Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
 msgstr "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_202
-msgid "Manufacture of other chemical products"
-msgstr "Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2023
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2023
 msgid "Manufacture of perfumes and toilet preparations"
 msgstr "Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2023
-msgid "Manufacture of perfumes and toilet preparations"
-msgstr "Herstellung von Körperpflegemitteln und Duftstoffen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_202
-msgid "Manufacture of other chemical products"
-msgstr "Herstellung von sonstigen chemischen Erzeugnissen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2029
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2029
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2029
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2029
 msgid "Manufacture of other chemical products n.e.c."
 msgstr "Herstellung von pyrotechnischen Erzeugnissen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2029
-msgid "Manufacture of other chemical products n.e.c."
-msgstr "Herstellung von Klebstoffen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2029
-msgid "Manufacture of other chemical products n.e.c."
-msgstr "Herstellung von etherischen Ölen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2029
-msgid "Manufacture of other chemical products n.e.c."
-msgstr "Herstellung von sonstigen chemischen Erzeugnissen a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_203
-msgid "Manufacture of man-made fibres"
-msgstr "Herstellung von Chemiefasern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2030
 msgid "Manufacture of man-made fibres"
 msgstr "Herstellung von Chemiefasern"
@@ -1137,23 +853,11 @@ msgstr "Herstellung von pharmazeutischen Erzeugnissen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_210
-msgid "Manufacture of pharmaceutical preparations"
-msgstr "Herstellung von pharmazeutischen Grundstoffen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2100
-msgid "Manufacture of pharmaceutical preparations"
-msgstr "Herstellung von pharmazeutischen Grundstoffen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_210
-msgid "Manufacture of pharmaceutical preparations"
-msgstr "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2100
 msgid "Manufacture of pharmaceutical preparations"
-msgstr "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
+msgstr "Herstellung von pharmazeutischen Grundstoffen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_22
@@ -1182,23 +886,11 @@ msgstr "Herstellung von Kunststoffwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2220
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2220
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2220
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2220
 msgid "Manufacture of other plastic products"
 msgstr "Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2220
-msgid "Manufacture of other plastic products"
-msgstr "Herstellung von Verpackungsmitteln aus Kunststoffen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2220
-msgid "Manufacture of other plastic products"
-msgstr "Herstellung von Baubedarfsartikeln aus Kunststoffen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2220
-msgid "Manufacture of other plastic products"
-msgstr "Herstellung von sonstigen Kunststoffwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_23
@@ -1212,30 +904,20 @@ msgstr "Herstellung von Glas und Glaswaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
 msgid "Manufacture and processing of other glass, including technical glassware"
 msgstr "Herstellung von Flachglas"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr "Veredlung und Bearbeitung von Flachglas"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr "Herstellung von Hohlglas"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr "Herstellung von Glasfasern und Waren daraus"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr "Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
 #: model:res.partner.nace,name:l10n_eu_nace.nace_239
 msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
 msgstr "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
@@ -1246,104 +928,35 @@ msgid "Manufacture of refractory products"
 msgstr "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr "Herstellung von keramischen Baumaterialien"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2392
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2392
 msgid "Manufacture of bricks, tiles and construction products, in baked clay"
 msgstr "Herstellung von keramischen Wand- und Bodenfliesen und -platten"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2392
-msgid "Manufacture of bricks, tiles and construction products, in baked clay"
-msgstr "Herstellung von Ziegeln und sonstiger Baukeramik"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr "Herstellung von sonstigen Porzellan- und keramischen Erzeugnissen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2393
 msgid "Manufacture of other ceramic products"
 msgstr "Herstellung von keramischen Haushaltswaren und Ziergegenständen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr "Herstellung von Sanitärkeramik"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr "Herstellung von Isolatoren und Isolierteilen aus Keramik"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr "Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr "Herstellung von sonstigen keramischen Erzeugnissen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr "Herstellung von Zement, Kalk und gebranntem Gips"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2394
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2394
 msgid "Manufacture of lime and plaster"
 msgstr "Herstellung von Zement"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2394
-msgid "Manufacture of lime and plaster"
-msgstr "Herstellung von Kalk und gebranntem Gips"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr "Herstellung von Erzeugnissen aus Beton, Zement und Gips"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2395
 msgid "Manufacture of other articles of concrete, plaster and cement"
 msgstr "Herstellung von Erzeugnissen aus Beton, Zement und Kalksandstein für den Bau"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr "Herstellung von Gipserzeugnissen für den Bau"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr "Herstellung von Frischbeton (Transportbeton)"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr "Herstellung von Mörtel und anderem Beton (Trockenbeton)"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr "Herstellung von Faserzementwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr "Herstellung von sonstigen Erzeugnissen aus Beton, Zement und Gips a. n. g."
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2396
@@ -1351,19 +964,10 @@ msgid "Cutting, shaping and finishing of stone"
 msgstr "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g."
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage sowie sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g."
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2399
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2399
 msgid "Manufacture of other non-metallic mineral products n.e.c."
 msgstr "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2399
-msgid "Manufacture of other non-metallic mineral products n.e.c."
-msgstr "Herstellung von sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_24
@@ -1372,48 +976,20 @@ msgstr "Metallerzeugung und -bearbeitung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_241
+#: model:res.partner.nace,name:l10n_eu_nace.nace_241
+#: model:res.partner.nace,name:l10n_eu_nace.nace_241
 msgid "Manufacture of other products of first processing of steel"
 msgstr "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
 msgid "Cold drawing of wire"
 msgstr "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_241
-msgid "Manufacture of other products of first processing of steel"
-msgstr "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_241
-msgid "Manufacture of other products of first processing of steel"
-msgstr "Sonstige erste Bearbeitung von Eisen und Stahl"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr "Herstellung von Blankstahl"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr "Herstellung von Kaltband mit einer Breite von weniger als 600 mm"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr "Herstellung von Kaltprofilen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr "Herstellung von kaltgezogenem Draht"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_242
@@ -1422,33 +998,13 @@ msgstr "Erzeugung und erste Bearbeitung von NE-Metallen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
 msgid "Processing of nuclear fuel "
 msgstr "Erzeugung und erste Bearbeitung von Edelmetallen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr "Erzeugung und erste Bearbeitung von Aluminium"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr "Erzeugung und erste Bearbeitung von Blei, Zink und Zinn"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr "Erzeugung und erste Bearbeitung von Kupfer"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr "Erzeugung und erste Bearbeitung von sonstigen NE-Metallen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr "Aufbereitung von Kernbrennstoffen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_243
@@ -1457,23 +1013,15 @@ msgstr "Gießereien"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2431
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2431
 msgid "Casting of steel"
 msgstr "Eisengießereien"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2431
-msgid "Casting of steel"
-msgstr "Stahlgießereien"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2432
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2432
 msgid "Casting of other non-ferrous metals"
 msgstr "Leichtmetallgießereien"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2432
-msgid "Casting of other non-ferrous metals"
-msgstr "Buntmetallgießereien"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_25
@@ -1482,55 +1030,34 @@ msgstr "Herstellung von Metallerzeugnissen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_251
+#: model:res.partner.nace,name:l10n_eu_nace.nace_251
+#: model:res.partner.nace,name:l10n_eu_nace.nace_251
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2513
 msgid "Manufacture of steam generators, except central heating hot water boilers"
 msgstr "Stahl- und Leichtmetallbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2511
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2511
 msgid "Manufacture of doors and windows of metal"
 msgstr "Herstellung von Metallkonstruktionen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2511
-msgid "Manufacture of doors and windows of metal"
-msgstr "Herstellung von Ausbauelementen aus Metall"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_251
-msgid "Manufacture of steam generators, except central heating hot water boilers"
-msgstr "Herstellung von Metalltanks und -behältern; Herstellung von Heizkörpern und -kesseln für Zentralheizungen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2512
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2512
 msgid "Manufacture of other tanks, reservoirs and containers of metal"
 msgstr "Herstellung von Heizkörpern und –kesseln für Zentralheizungen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2512
-msgid "Manufacture of other tanks, reservoirs and containers of metal"
-msgstr "Herstellung von Sammelbehältern, Tanks u. ä. Behältern aus Metall"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_251
-msgid "Manufacture of steam generators, except central heating hot water boilers"
-msgstr "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2513
-msgid "Manufacture of steam generators, except central heating hot water boilers"
-msgstr "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_252
-msgid "Manufacture of weapons and ammunition"
-msgstr "Herstellung von Waffen und Munition"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2520
 msgid "Manufacture of weapons and ammunition"
 msgstr "Herstellung von Waffen und Munition"
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_259
+#: model:res.partner.nace,name:l10n_eu_nace.nace_259
+#: model:res.partner.nace,name:l10n_eu_nace.nace_259
 #: model:res.partner.nace,name:l10n_eu_nace.nace_259
 msgid "Manufacture of other fabricated metal products"
 msgstr "Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen"
@@ -1541,69 +1068,26 @@ msgid "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
 msgstr "Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_259
-msgid "Manufacture of other fabricated metal products"
-msgstr "Oberflächenveredlung und Wärmebehandlung; Mechanik a. n. g."
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2592
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2592
 msgid "Machining"
 msgstr "Oberflächenveredlung und Wärmebehandlung"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2592
-msgid "Machining"
-msgstr "Mechanik a. n. g."
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_259
-msgid "Manufacture of other fabricated metal products"
-msgstr "Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2593
 msgid "Manufacture of tools"
 msgstr "Herstellung von Schneidwaren und Bestecken aus unedlen Metallen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
-msgid "Manufacture of tools"
-msgstr "Herstellung von Schlössern und Beschlägen aus unedlen Metallen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
-msgid "Manufacture of tools"
-msgstr "Herstellung von Werkzeugen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_259
-msgid "Manufacture of other fabricated metal products"
-msgstr "Herstellung von sonstigen Metallwaren"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2599
 msgid "Manufacture of other fabricated metal products n.e.c."
 msgstr "Herstellung von Fässern, Trommeln, Dosen, Eimern u. ä. Behältern aus Metall"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr "Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr "Herstellung von Drahtwaren, Ketten und Federn"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr "Herstellung von Schrauben und Nieten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr "Herstellung von sonstigen Metallwaren a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_26
@@ -1617,40 +1101,24 @@ msgstr "Herstellung von elektronischen Bauelementen und Leiterplatten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2610
 msgid "Manufacture of loaded electronic boards"
 msgstr "Herstellung von elektronischen Bauelementen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2610
-msgid "Manufacture of loaded electronic boards"
-msgstr "Herstellung von bestückten Leiterplatten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_262
-msgid "Manufacture of computers and peripheral equipment"
-msgstr "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2620
 msgid "Manufacture of computers and peripheral equipment"
 msgstr "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_263
-msgid "Manufacture of communication equipment"
-msgstr "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2630
 msgid "Manufacture of communication equipment"
 msgstr "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_264
-msgid "Manufacture of consumer electronics"
-msgstr "Herstellung von Geräten der Unterhaltungselektronik"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2640
 msgid "Manufacture of consumer electronics"
 msgstr "Herstellung von Geräten der Unterhaltungselektronik"
@@ -1672,30 +1140,18 @@ msgstr "Herstellung von Uhren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_266
-msgid "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
-msgstr "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2660
 msgid "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
 msgstr "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_267
-msgid "Manufacture of optical instruments and photographic equipment"
-msgstr "Herstellung von optischen und fotografischen Instrumenten und Geräten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2670
 msgid "Manufacture of optical instruments and photographic equipment"
 msgstr "Herstellung von optischen und fotografischen Instrumenten und Geräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_268
-msgid "Manufacture of magnetic and optical media"
-msgstr "Herstellung von magnetischen und optischen Datenträgern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2680
 msgid "Manufacture of magnetic and optical media"
 msgstr "Herstellung von magnetischen und optischen Datenträgern"
@@ -1712,20 +1168,12 @@ msgstr "Herstellung von Elektromotoren, Generatoren, Transformatoren, Elektrizit
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2710
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2710
 msgid "Manufacture of electricity distribution and control apparatus"
 msgstr "Herstellung von Elektromotoren, Generatoren und Transformatoren"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2710
-msgid "Manufacture of electricity distribution and control apparatus"
-msgstr "Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_272
-msgid "Manufacture of batteries and accumulators"
-msgstr "Herstellung von Batterien und Akkumulatoren"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2720
 msgid "Manufacture of batteries and accumulators"
 msgstr "Herstellung von Batterien und Akkumulatoren"
@@ -1752,10 +1200,6 @@ msgstr "Herstellung von elektrischem Installationsmaterial"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_274
-msgid "Manufacture of electric lighting equipment"
-msgstr "Herstellung von elektrischen Lampen und Leuchten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2740
 msgid "Manufacture of electric lighting equipment"
 msgstr "Herstellung von elektrischen Lampen und Leuchten"
@@ -1767,20 +1211,12 @@ msgstr "Herstellung von Haushaltsgeräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2750
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2750
 msgid "Manufacture of non-electric domestic appliances"
 msgstr "Herstellung von elektrischen Haushaltsgeräten"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2750
-msgid "Manufacture of non-electric domestic appliances"
-msgstr "Herstellung von nichtelektrischen Haushaltsgeräten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_279
-msgid "Manufacture of other electrical equipment"
-msgstr "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2790
 msgid "Manufacture of other electrical equipment"
 msgstr "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a. n. g."
@@ -1791,6 +1227,7 @@ msgid "Manufacture of machinery and equipment n.e.c."
 msgstr "Maschinenbau"
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_281
 #: model:res.partner.nace,name:l10n_eu_nace.nace_281
 msgid "Manufacture of other general-purpose machinery"
 msgstr "Herstellung von nicht wirtschaftszweigspezifischen Maschinen"
@@ -1807,23 +1244,14 @@ msgstr "Herstellung von hydraulischen und pneumatischen Komponenten und Systemen
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2813
-msgid "Manufacture of other taps and valves"
-msgstr "Herstellung von Pumpen und Kompressoren a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2813
 msgid "Manufacture of other taps and valves"
-msgstr "Herstellung von Armaturen a. n. g"
+msgstr "Herstellung von Pumpen und Kompressoren a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2814
 msgid "Manufacture of bearings, gears, gearing and driving elements"
 msgstr "Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_281
-msgid "Manufacture of other general-purpose machinery"
-msgstr "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2815
@@ -1847,15 +1275,13 @@ msgstr "Herstellung von handgeführten Werkzeugen mit Motorantrieb"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2819
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2819
 msgid "Manufacture of other general-purpose machinery n.e.c."
 msgstr "Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2819
-msgid "Manufacture of other general-purpose machinery n.e.c."
-msgstr "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g."
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_282
+#: model:res.partner.nace,name:l10n_eu_nace.nace_282
 #: model:res.partner.nace,name:l10n_eu_nace.nace_282
 msgid "Manufacture of other special-purpose machinery"
 msgstr "Herstellung von land- und forstwirtschaftlichen Maschinen"
@@ -1866,24 +1292,10 @@ msgid "Manufacture of agricultural and forestry machinery"
 msgstr "Herstellung von land- und forstwirtschaftlichen Maschinen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_282
-msgid "Manufacture of other special-purpose machinery"
-msgstr "Herstellung von Werkzeugmaschinen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2822
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2822
 msgid "Manufacture of other machine tools"
 msgstr "Herstellung von Werkzeugmaschinen für die Metallbearbeitung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2822
-msgid "Manufacture of other machine tools"
-msgstr "Herstellung von sonstigen Werkzeugmaschinen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_282
-msgid "Manufacture of other special-purpose machinery"
-msgstr "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2823
@@ -1907,18 +1319,10 @@ msgstr "Herstellung von Maschinen für die Textil- und Bekleidungsherstellung un
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2829
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2829
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2829
 msgid "Manufacture of other special-purpose machinery n.e.c."
 msgstr "Herstellung von Maschinen für die Papiererzeugung und –verarbeitung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2829
-msgid "Manufacture of other special-purpose machinery n.e.c."
-msgstr "Herstellung von Maschinen für die Verarbeitung von Kunststoffen und Kautschuk"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2829
-msgid "Manufacture of other special-purpose machinery n.e.c."
-msgstr "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_29
@@ -1927,20 +1331,12 @@ msgstr "Herstellung von Kraftwagen und Kraftwagenteilen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_291
-msgid "Manufacture of motor vehicles"
-msgstr "Herstellung von Kraftwagen und Kraftwagenmotoren"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2910
 msgid "Manufacture of motor vehicles"
 msgstr "Herstellung von Kraftwagen und Kraftwagenmotoren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_292
-msgid "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
-msgstr "Herstellung von Karosserien, Aufbauten und Anhängern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2920
 msgid "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
 msgstr "Herstellung von Karosserien, Aufbauten und Anhängern"
@@ -1952,13 +1348,9 @@ msgstr "Herstellung von Teilen und Zubehör für Kraftwagen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2930
-msgid "Manufacture of other parts and accessories for motor vehicles"
-msgstr "Herstellung elektrischer und elektronischer Ausrüstungsgegenstände für Kraftwagen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2930
 msgid "Manufacture of other parts and accessories for motor vehicles"
-msgstr "Herstellung von sonstigen Teilen und sonstigem Zubehör für Kraftwagen"
+msgstr "Herstellung elektrischer und elektronischer Ausrüstungsgegenstände für Kraftwagen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_30
@@ -1982,30 +1374,18 @@ msgstr "Boots- und Yachtbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_302
-msgid "Manufacture of railway locomotives and rolling stock"
-msgstr "Schienenfahrzeugbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3020
 msgid "Manufacture of railway locomotives and rolling stock"
 msgstr "Schienenfahrzeugbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_303
-msgid "Manufacture of air and spacecraft and related machinery"
-msgstr "Luft- und Raumfahrzeugbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3030
 msgid "Manufacture of air and spacecraft and related machinery"
 msgstr "Luft- und Raumfahrzeugbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_304
-msgid "Manufacture of military fighting vehicles"
-msgstr "Herstellung von militärischen Kampffahrzeugen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3040
 msgid "Manufacture of military fighting vehicles"
 msgstr "Herstellung von militärischen Kampffahrzeugen"
@@ -2032,33 +1412,17 @@ msgstr "Herstellung von sonstigen Fahrzeugen a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_31
-msgid "Manufacture of furniture"
-msgstr "Herstellung von Möbeln"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_310
 msgid "Manufacture of furniture"
 msgstr "Herstellung von Möbeln"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3100
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3100
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3100
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3100
 msgid "Manufacture of other furniture"
 msgstr "Herstellung von Büro- und Ladenmöbeln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3100
-msgid "Manufacture of other furniture"
-msgstr "Herstellung von Küchenmöbeln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3100
-msgid "Manufacture of other furniture"
-msgstr "Herstellung von Matratzen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3100
-msgid "Manufacture of other furniture"
-msgstr "Herstellung von sonstigen Möbeln"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_32
@@ -2072,13 +1436,9 @@ msgstr "Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3211
-msgid "Manufacture of jewellery and related articles"
-msgstr "Herstellung von Münzen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3211
 msgid "Manufacture of jewellery and related articles"
-msgstr "Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)"
+msgstr "Herstellung von Münzen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3212
@@ -2087,40 +1447,24 @@ msgstr "Herstellung von Fantasieschmuck"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_322
-msgid "Manufacture of musical instruments"
-msgstr "Herstellung von Musikinstrumenten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3220
 msgid "Manufacture of musical instruments"
 msgstr "Herstellung von Musikinstrumenten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_323
-msgid "Manufacture of sports goods"
-msgstr "Herstellung von Sportgeräten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3230
 msgid "Manufacture of sports goods"
 msgstr "Herstellung von Sportgeräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_324
-msgid "Manufacture of games and toys"
-msgstr "Herstellung von Spielwaren"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3240
 msgid "Manufacture of games and toys"
 msgstr "Herstellung von Spielwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_325
-msgid "Manufacture of medical and dental instruments and supplies"
-msgstr "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3250
 msgid "Manufacture of medical and dental instruments and supplies"
 msgstr "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
@@ -2132,13 +1476,9 @@ msgstr "Herstellung von Erzeugnissen a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3290
-msgid "Other manufacturing n.e.c. "
-msgstr "Herstellung von Besen und Bürsten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3290
 msgid "Other manufacturing n.e.c. "
-msgstr "Herstellung von sonstigen Erzeugnissen a. n. g."
+msgstr "Herstellung von Besen und Bürsten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_33
@@ -2172,18 +1512,10 @@ msgstr "Reparatur von elektrischen Ausrüstungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3315
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3315
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3315
 msgid "Repair and maintenance of other transport equipment"
 msgstr "Reparatur und Instandhaltung von Schiffen, Booten und Yachten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3315
-msgid "Repair and maintenance of other transport equipment"
-msgstr "Reparatur und Instandhaltung von Luft- und Raumfahrzeugen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3315
-msgid "Repair and maintenance of other transport equipment"
-msgstr "Reparatur und Instandhaltung von Fahrzeugen a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3319
@@ -2192,10 +1524,6 @@ msgstr "Reparatur von sonstigen Ausrüstungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_332
-msgid "Installation of industrial machinery and equipment"
-msgstr "Installation von Maschinen und Ausrüstungen a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3320
 msgid "Installation of industrial machinery and equipment"
 msgstr "Installation von Maschinen und Ausrüstungen a. n. g."
@@ -2217,23 +1545,11 @@ msgstr "Elektrizitätsversorgung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3510
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3510
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3510
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3510
 msgid "Trade of electricity"
 msgstr "Elektrizitätserzeugung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3510
-msgid "Trade of electricity"
-msgstr "Elektrizitätsübertragung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3510
-msgid "Trade of electricity"
-msgstr "Elektrizitätsverteilung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3510
-msgid "Trade of electricity"
-msgstr "Elektrizitätshandel"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_352
@@ -2242,25 +1558,13 @@ msgstr "Gasversorgung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3520
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3520
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3520
 msgid "Trade of gas through mains"
 msgstr "Gaserzeugung"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3520
-msgid "Trade of gas through mains"
-msgstr "Gasverteilung durch Rohrleitungen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3520
-msgid "Trade of gas through mains"
-msgstr "Gashandel durch Rohrleitungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_353
-msgid "Steam and air conditioning supply"
-msgstr "Wärme- und Kälteversorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3530
 msgid "Steam and air conditioning supply"
 msgstr "Wärme- und Kälteversorgung"
@@ -2272,30 +1576,14 @@ msgstr "WASSERVERSORGUNG; ABWASSER- UND ABFALLENTSORGUNG UND BESEITIGUNG VON UMW
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_36
-msgid "Water collection, treatment and supply"
-msgstr "Wasserversorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_360
-msgid "Water collection, treatment and supply"
-msgstr "Wasserversorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3600
 msgid "Water collection, treatment and supply"
 msgstr "Wasserversorgung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_37
-msgid "Sewerage"
-msgstr "Abwasserentsorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_370
-msgid "Sewerage"
-msgstr "Abwasserentsorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3700
 msgid "Sewerage"
 msgstr "Abwasserentsorgung"
@@ -2342,25 +1630,13 @@ msgstr "Rückgewinnung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3830
+#: model:res.partner.nace,name:l10n_eu_nace.nace_3830
 msgid "Recovery of sorted materials"
 msgstr "Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_3830
-msgid "Recovery of sorted materials"
-msgstr "Rückgewinnung sortierter Werkstoffe"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_39
-msgid "Remediation activities and other waste management services"
-msgstr "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_390
-msgid "Remediation activities and other waste management services"
-msgstr "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3900
 msgid "Remediation activities and other waste management services"
 msgstr "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
@@ -2377,23 +1653,11 @@ msgstr "Hochbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_410
-msgid "Construction of residential and non-residential buildings"
-msgstr "Erschließung von Grundstücken; Bauträger"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4100
-msgid "Construction of residential and non-residential buildings"
-msgstr "Erschließung von Grundstücken; Bauträger"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_410
-msgid "Construction of residential and non-residential buildings"
-msgstr "Bau von Gebäuden"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4100
 msgid "Construction of residential and non-residential buildings"
-msgstr "Bau von Gebäuden"
+msgstr "Erschließung von Grundstücken; Bauträger"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_42
@@ -2407,18 +1671,10 @@ msgstr "Bau von Straßen und Bahnverkehrsstrecken"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4210
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4210
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4210
 msgid "Construction of bridges and tunnels"
 msgstr "Bau von Straßen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4210
-msgid "Construction of bridges and tunnels"
-msgstr "Bau von Bahnverkehrsstrecken"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4210
-msgid "Construction of bridges and tunnels"
-msgstr "Brücken- und Tunnelbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_422
@@ -2427,13 +1683,9 @@ msgstr "Leitungstiefbau und Kläranlagenbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4220
-msgid "Construction of utility projects for electricity and telecommunications"
-msgstr "Rohrleitungstiefbau, Brunnenbau und Kläranlagenbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4220
 msgid "Construction of utility projects for electricity and telecommunications"
-msgstr "Kabelnetzleitungstiefbau"
+msgstr "Rohrleitungstiefbau, Brunnenbau und Kläranlagenbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_429
@@ -2442,13 +1694,9 @@ msgstr "Sonstiger Tiefbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4290
-msgid "Construction of other civil engineering projects n.e.c."
-msgstr "Wasserbau"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4290
 msgid "Construction of other civil engineering projects n.e.c."
-msgstr "Sonstiger Tiefbau a. n. g."
+msgstr "Wasserbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_43
@@ -2467,13 +1715,9 @@ msgstr "Abbrucharbeiten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4312
-msgid "Test drilling and boring"
-msgstr "Vorbereitende Baustellenarbeiten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4312
 msgid "Test drilling and boring"
-msgstr "Test- und Suchbohrung"
+msgstr "Vorbereitende Baustellenarbeiten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_432
@@ -2502,28 +1746,12 @@ msgstr "Sonstiger Ausbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4330
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
 msgid "Other building completion and finishing"
 msgstr "Anbringen von Stuckaturen, Gipserei und Verputzerei"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr "Bautischlerei und -schlosserei"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr "Fußboden-, Fliesen- und Plattenlegerei, Tapeziererei"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr "Malerei und Glaserei"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr "Sonstiger Ausbau a. n. g."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_439
@@ -2532,13 +1760,9 @@ msgstr "Sonstige spezialisierte Bautätigkeiten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4390
-msgid "Other specialised construction activities n.e.c."
-msgstr "Dachdeckerei und Zimmerei"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4390
 msgid "Other specialised construction activities n.e.c."
-msgstr "Sonstige spezialisierte Bautätigkeiten a. n. g."
+msgstr "Dachdeckerei und Zimmerei"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_G
@@ -2557,20 +1781,12 @@ msgstr "Handel mit Kraftwagen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4510
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4510
 msgid "Sale of other motor vehicles"
 msgstr "Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4510
-msgid "Sale of other motor vehicles"
-msgstr "Handel mit Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_452
-msgid "Maintenance and repair of motor vehicles"
-msgstr "Instandhaltung und Reparatur von Kraftwagen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4520
 msgid "Maintenance and repair of motor vehicles"
 msgstr "Instandhaltung und Reparatur von Kraftwagen"
@@ -2582,20 +1798,12 @@ msgstr "Handel mit Kraftwagenteilen und -zubehör"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4530
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4530
 msgid "Retail trade of motor vehicle parts and accessories"
 msgstr "Großhandel mit Kraftwagenteilen und -zubehör"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4530
-msgid "Retail trade of motor vehicle parts and accessories"
-msgstr "Einzelhandel mit Kraftwagenteilen und -zubehör"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_454
-msgid "Sale, maintenance and repair of motorcycles and related parts and accessories"
-msgstr "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4540
 msgid "Sale, maintenance and repair of motorcycles and related parts and accessories"
 msgstr "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
@@ -2612,48 +1820,16 @@ msgstr "Handelsvermittlung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
 msgid "Agents involved in the sale of a variety of goods"
 msgstr "Handelsvermittlung von landwirtschaftlichen Grundstoffen, lebenden Tieren, textilen Rohstoffen und Halbwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Brennstoffen, Erzen, Metallen und technischen Chemikalien"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Holz, Baustoffen und Anstrichmitteln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Möbeln, Einrichtungs- und Haushaltsgegenständen, Eisen- und Metallwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Textilien, Bekleidung, Schuhen und Lederwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Nahrungsmitteln, Getränken und Tabakwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von sonstigen Waren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr "Handelsvermittlung von Waren ohne ausgeprägten Schwerpunkt"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_462
@@ -2662,23 +1838,11 @@ msgstr "Großhandel mit landwirtschaftlichen Grundstoffen und lebenden Tieren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4620
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4620
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4620
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4620
 msgid "Wholesale of hides, skins and leather"
 msgstr "Großhandel mit Getreide, Rohtabak, Saatgut und Futtermitteln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4620
-msgid "Wholesale of hides, skins and leather"
-msgstr "Großhandel mit Blumen und Pflanzen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4620
-msgid "Wholesale of hides, skins and leather"
-msgstr "Großhandel mit lebenden Tieren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4620
-msgid "Wholesale of hides, skins and leather"
-msgstr "Großhandel mit Häuten, Fellen und Leder"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_463
@@ -2687,48 +1851,16 @@ msgstr "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
 msgid "Non-specialised wholesale of food, beverages and tobacco"
 msgstr "Großhandel mit Obst, Gemüse und Kartoffeln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Fleisch und Fleischwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Milch, Milcherzeugnissen, Eiern, Speiseölen und Nahrungsfetten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Getränken"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Tabakwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Zucker, Süßwaren und Backwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Kaffee, Tee, Kakao und Gewürzen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit sonstigen Nahrungs- und Genussmitteln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_464
@@ -2737,48 +1869,20 @@ msgstr "Großhandel mit Gebrauchs- und Verbrauchsgütern"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4641
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4641
 msgid "Wholesale of clothing and footwear"
 msgstr "Großhandel mit Textilien"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4641
-msgid "Wholesale of clothing and footwear"
-msgstr "Großhandel mit Bekleidung und Schuhen"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
 msgid "Wholesale of other household goods"
 msgstr "Großhandel mit Foto- und optischen Erzeugnissen, elektrischen Haushaltsgeräten und Geräten der Unterhaltungselektronik"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr "Großhandel mit keramischen Erzeugnissen, Glaswaren und Reinigungsmitteln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr "Großhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr "Großhandel mit pharmazeutischen, medizinischen und orthopädischen Erzeugnissen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr "Großhandel mit Möbeln, Teppichen, Lampen und Leuchten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr "Großhandel mit Uhren und Schmuck"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr "Großhandel mit sonstigen Gebrauchs- und Verbrauchsgütern"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_465
@@ -2797,6 +1901,7 @@ msgstr "Großhandel mit elektronischen Bauteilen und Telekommunikationsgeräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_466
+#: model:res.partner.nace,name:l10n_eu_nace.nace_466
 msgid "Other specialised wholesale"
 msgstr "Großhandel mit sonstigen Maschinen, Ausrüstungen und Zubehör"
 
@@ -2807,38 +1912,13 @@ msgstr "Großhandel mit landwirtschaftlichen Maschinen, und Geräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
 msgid "Wholesale of other machinery and equipment"
 msgstr "Großhandel mit Werkzeugmaschinen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr "Großhandel mit Bergwerks-, Bau- und Baustoffmaschinen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr "Großhandel mit Textil-, Näh- und Strickmaschinen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr "Großhandel mit Büromöbeln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr "Großhandel mit sonstigen Büromaschinen und –einrichtungen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr "Großhandel mit sonstigen Maschinen und Ausrüstungen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_466
-msgid "Other specialised wholesale"
-msgstr "Sonstiger Großhandel"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4661
@@ -2852,35 +1932,19 @@ msgstr "Großhandel mit Erzen, Metallen und Metallhalbzeug"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4663
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4663
 msgid "Wholesale of hardware, plumbing and heating equipment and supplies"
 msgstr "Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4663
-msgid "Wholesale of hardware, plumbing and heating equipment and supplies"
-msgstr "Großhandel mit Metall- und Kunststoffwaren für Bauzwecke sowie Installationsbedarf für Gas, Wasser und Heizung"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4669
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4669
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4669
 msgid "Wholesale of waste and scrap"
 msgstr "Großhandel mit chemischen Erzeugnissen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4669
-msgid "Wholesale of waste and scrap"
-msgstr "Großhandel mit sonstigen Halbwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4669
-msgid "Wholesale of waste and scrap"
-msgstr "Großhandel mit Altmaterialien und Reststoffen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_469
-msgid "Non-specialised wholesale trade"
-msgstr "Großhandel ohne ausgeprägten Schwerpunkt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4690
 msgid "Non-specialised wholesale trade"
 msgstr "Großhandel ohne ausgeprägten Schwerpunkt"
@@ -2912,23 +1976,12 @@ msgstr "Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren 
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4721
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
 msgid "Other retail sale of food in specialised stores"
 msgstr "Einzelhandel mit Obst, Gemüse und Kartoffeln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr "Einzelhandel mit Fleisch und Fleischwaren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr "Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr "Einzelhandel mit Back- und Süßwaren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4722
@@ -2941,16 +1994,7 @@ msgid "Retail sale of tobacco products in specialised stores"
 msgstr "Einzelhandel mit Tabakwaren"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr "Sonstiger Einzelhandel mit Nahrungs- und Genussmitteln"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_473
-msgid "Retail sale of automotive fuel in specialised stores"
-msgstr "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4730
 msgid "Retail sale of automotive fuel in specialised stores"
 msgstr "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
@@ -2962,13 +2006,9 @@ msgstr "Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (i
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4741
-msgid "Retail sale of telecommunications equipment in specialised stores"
-msgstr "Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4741
 msgid "Retail sale of telecommunications equipment in specialised stores"
-msgstr "Einzelhandel mit Telekommunikationsgeräten"
+msgstr "Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4742
@@ -2997,13 +2037,9 @@ msgstr "Einzelhandel mit Vorhängen, Teppichen, Fußbodenbelägen und Tapeten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4759
-msgid "Retail sale of furniture, lighting equipment and other household articles in specialised stores"
-msgstr "Einzelhandel mit elektrischen Haushaltsgeräten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4759
 msgid "Retail sale of furniture, lighting equipment and other household articles in specialised stores"
-msgstr "Einzelhandel mit Möbeln, Einrichtungsgegenständen und sonstigem Hausrat"
+msgstr "Einzelhandel mit elektrischen Haushaltsgeräten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_476
@@ -3012,13 +2048,9 @@ msgstr "Einzelhandel mit Verlagsprodukten, Sportausrüstungen und Spielwaren (in
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4761
-msgid "Retail sale of newspapers and stationery in specialised stores"
-msgstr "Einzelhandel mit Büchern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4761
 msgid "Retail sale of newspapers and stationery in specialised stores"
-msgstr "Einzelhandel mit Zeitschriften, Zeitungen, Schreibwaren und Bürobedarf"
+msgstr "Einzelhandel mit Büchern"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4762
@@ -3042,43 +2074,23 @@ msgstr "Einzelhandel mit sonstigen Gütern (in Verkaufsräumen)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4771
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4771
 msgid "Retail sale of footwear and leather goods in specialised stores"
 msgstr "Einzelhandel mit Bekleidung"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4771
-msgid "Retail sale of footwear and leather goods in specialised stores"
-msgstr "Einzelhandel mit Schuhen und Lederwaren"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4772
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4772
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4772
 msgid "Retail sale of cosmetic and toilet articles in specialised stores"
 msgstr "Apotheken"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4772
-msgid "Retail sale of cosmetic and toilet articles in specialised stores"
-msgstr "Einzelhandel mit medizinischen und orthopädischen Artikeln"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4772
-msgid "Retail sale of cosmetic and toilet articles in specialised stores"
-msgstr "Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4773
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4773
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4773
 msgid "Other retail sale of new goods in specialised stores"
 msgstr "Einzelhandel mit Blumen, Pflanzen, Sämereien, Düngemitteln, zoologischem Bedarf und lebenden Tieren"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4773
-msgid "Other retail sale of new goods in specialised stores"
-msgstr "Einzelhandel mit Uhren und Schmuck"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4773
-msgid "Other retail sale of new goods in specialised stores"
-msgstr "Sonstiger Einzelhandel in Verkaufsräumen (ohne Antiquitäten und Gebrauchtwaren)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4774
@@ -3132,6 +2144,8 @@ msgstr "Landverkehr und Transport in Rohrfernleitungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_491
+#: model:res.partner.nace,name:l10n_eu_nace.nace_491
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4912
 msgid "Freight rail transport"
 msgstr "Personenbeförderung im Eisenbahnfernverkehr"
 
@@ -3141,16 +2155,7 @@ msgid "Passenger rail transport, interurban"
 msgstr "Personenbeförderung im Eisenbahnfernverkehr"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_491
-msgid "Freight rail transport"
-msgstr "Güterbeförderung im Eisenbahnverkehr"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4912
-msgid "Freight rail transport"
-msgstr "Güterbeförderung im Eisenbahnverkehr"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_492
 #: model:res.partner.nace,name:l10n_eu_nace.nace_492
 msgid "Freight transport by road and removal services"
 msgstr "Sonstige Personenbeförderung im Landverkehr"
@@ -3162,35 +2167,18 @@ msgstr "Personenbeförderung im Nahverkehr zu Lande (ohne Taxis)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4922
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4922
 msgid "Other passenger land transport n.e.c."
 msgstr "Betrieb von Taxis"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4922
-msgid "Other passenger land transport n.e.c."
-msgstr "Sonstige Personenbeförderung im Landverkehr a. n. g."
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_492
-msgid "Freight transport by road and removal services"
-msgstr "Güterbeförderung im Straßenverkehr, Umzugstransporte"
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4923
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4923
 msgid "Removal services"
 msgstr "Güterbeförderung im Straßenverkehr"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4923
-msgid "Removal services"
-msgstr "Umzugstransporte"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_493
-msgid "Transport via pipeline"
-msgstr "Transport in Rohrfernleitungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4930
 msgid "Transport via pipeline"
 msgstr "Transport in Rohrfernleitungen"
@@ -3202,6 +2190,8 @@ msgstr "Schifffahrt"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_501
+#: model:res.partner.nace,name:l10n_eu_nace.nace_501
+#: model:res.partner.nace,name:l10n_eu_nace.nace_5012
 msgid "Sea and coastal freight water transport"
 msgstr "Personenbeförderung in der See- und Küstenschifffahrt"
 
@@ -3211,17 +2201,9 @@ msgid "Sea and coastal passenger water transport"
 msgstr "Personenbeförderung in der See- und Küstenschifffahrt"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_501
-msgid "Sea and coastal freight water transport"
-msgstr "Güterbeförderung in der See- und Küstenschifffahrt"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_5012
-msgid "Sea and coastal freight water transport"
-msgstr "Güterbeförderung in der See- und Küstenschifffahrt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_502
+#: model:res.partner.nace,name:l10n_eu_nace.nace_502
+#: model:res.partner.nace,name:l10n_eu_nace.nace_5022
 msgid "Inland freight water transport"
 msgstr "Personenbeförderung in der Binnenschifffahrt"
 
@@ -3231,26 +2213,12 @@ msgid "Inland passenger water transport"
 msgstr "Personenbeförderung in der Binnenschifffahrt"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_502
-msgid "Inland freight water transport"
-msgstr "Güterbeförderung in der Binnenschifffahrt"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_5022
-msgid "Inland freight water transport"
-msgstr "Güterbeförderung in der Binnenschifffahrt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_51
 msgid "Air transport"
 msgstr "Luftfahrt"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_511
-msgid "Passenger air transport"
-msgstr "Personenbeförderung in der Luftfahrt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5110
 msgid "Passenger air transport"
 msgstr "Personenbeförderung in der Luftfahrt"
@@ -3262,13 +2230,9 @@ msgstr "Güterbeförderung in der Luftfahrt und Raumtransport"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5120
-msgid "Space transport"
-msgstr "Güterbeförderung in der Luftfahrt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5120
 msgid "Space transport"
-msgstr "Raumtransport"
+msgstr "Güterbeförderung in der Luftfahrt"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_52
@@ -3277,10 +2241,6 @@ msgstr "Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_521
-msgid "Warehousing and storage"
-msgstr "Lagerei"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5210
 msgid "Warehousing and storage"
 msgstr "Lagerei"
@@ -3322,20 +2282,12 @@ msgstr "Post-, Kurier- und Expressdienste"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_531
-msgid "Postal activities under universal service obligation"
-msgstr "Postdienste von Universaldienstleistungsanbietern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5310
 msgid "Postal activities under universal service obligation"
 msgstr "Postdienste von Universaldienstleistungsanbietern"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_532
-msgid "Other postal and courier activities"
-msgstr "Sonstige Post-, Kurier- und Expressdienste"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5320
 msgid "Other postal and courier activities"
 msgstr "Sonstige Post-, Kurier- und Expressdienste"
@@ -3352,40 +2304,20 @@ msgstr "Beherbergung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_551
-msgid "Holiday and other short-stay accommodation"
-msgstr "Hotels, Gasthöfe und Pensionen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5510
-msgid "Holiday and other short-stay accommodation"
-msgstr "Hotels, Gasthöfe und Pensionen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_551
-msgid "Holiday and other short-stay accommodation"
-msgstr "Ferienunterkünfte und ähnliche Beherbergungsstätten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5510
 msgid "Holiday and other short-stay accommodation"
-msgstr "Ferienunterkünfte und ähnliche Beherbergungsstätten"
+msgstr "Hotels, Gasthöfe und Pensionen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_552
-msgid "Camping grounds, recreational vehicle parks and trailer parks"
-msgstr "Campingplätze"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5520
 msgid "Camping grounds, recreational vehicle parks and trailer parks"
 msgstr "Campingplätze"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_559
-msgid "Other accommodation"
-msgstr "Sonstige Beherbergungsstätten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5590
 msgid "Other accommodation"
 msgstr "Sonstige Beherbergungsstätten"
@@ -3397,10 +2329,6 @@ msgstr "Gastronomie"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_561
-msgid "Restaurants and mobile food service activities"
-msgstr "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5610
 msgid "Restaurants and mobile food service activities"
 msgstr "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä."
@@ -3422,10 +2350,6 @@ msgstr "Erbringung sonstiger Verpflegungsdienstleistungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_563
-msgid "Beverage serving activities"
-msgstr "Ausschank von Getränken"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5630
 msgid "Beverage serving activities"
 msgstr "Ausschank von Getränken"
@@ -3457,13 +2381,9 @@ msgstr "Verlegen von Adressbüchern und Verzeichnissen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5813
-msgid "Publishing of journals and periodicals"
-msgstr "Verlegen von Zeitungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5813
 msgid "Publishing of journals and periodicals"
-msgstr "Verlegen von Zeitschriften"
+msgstr "Verlegen von Zeitungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5819
@@ -3477,13 +2397,9 @@ msgstr "Verlegen von Software"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5820
-msgid "Other software publishing"
-msgstr "Verlegen von Computerspielen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5820
 msgid "Other software publishing"
-msgstr "Verlegen von sonstiger Software"
+msgstr "Verlegen von Computerspielen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_59
@@ -3517,10 +2433,6 @@ msgstr "Kinos"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_592
-msgid "Sound recording and music publishing activities"
-msgstr "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5920
 msgid "Sound recording and music publishing activities"
 msgstr "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
@@ -3532,20 +2444,12 @@ msgstr "Rundfunkveranstalter"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_601
-msgid "Radio broadcasting"
-msgstr "Hörfunkveranstalter"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6010
 msgid "Radio broadcasting"
 msgstr "Hörfunkveranstalter"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_602
-msgid "Television programming and broadcasting activities"
-msgstr "Fernsehveranstalter"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6020
 msgid "Television programming and broadcasting activities"
 msgstr "Fernsehveranstalter"
@@ -3557,50 +2461,30 @@ msgstr "Telekommunikation"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_611
-msgid "Wired telecommunications activities"
-msgstr "Leitungsgebundene Telekommunikation"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6110
 msgid "Wired telecommunications activities"
 msgstr "Leitungsgebundene Telekommunikation"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_612
-msgid "Wireless telecommunications activities"
-msgstr "Drahtlose Telekommunikation"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6120
 msgid "Wireless telecommunications activities"
 msgstr "Drahtlose Telekommunikation"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_613
-msgid "Satellite telecommunications activities"
-msgstr "Satellitentelekommunikation"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6130
 msgid "Satellite telecommunications activities"
 msgstr "Satellitentelekommunikation"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_619
-msgid "Other telecommunications activities"
-msgstr "Sonstige Telekommunikation"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6190
 msgid "Other telecommunications activities"
 msgstr "Sonstige Telekommunikation"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_62
-msgid "Computer programming, consultancy and related activities"
-msgstr "Erbringung von Dienstleistungen der Informationstechnologie"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_620
 msgid "Computer programming, consultancy and related activities"
 msgstr "Erbringung von Dienstleistungen der Informationstechnologie"
@@ -3612,13 +2496,9 @@ msgstr "Programmierungstätigkeiten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6202
-msgid "Computer facilities management activities"
-msgstr "Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6202
 msgid "Computer facilities management activities"
-msgstr "Betrieb von Datenverarbeitungseinrichtungen für Dritte"
+msgstr "Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6209
@@ -3687,20 +2567,12 @@ msgstr "Kreditinstitute (ohne Spezialkreditinstitute)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_642
-msgid "Activities of holding companies"
-msgstr "Beteiligungsgesellschaften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6420
 msgid "Activities of holding companies"
 msgstr "Beteiligungsgesellschaften"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_643
-msgid "Trusts, funds and similar financial entities"
-msgstr "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6430
 msgid "Trusts, funds and similar financial entities"
 msgstr "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
@@ -3747,20 +2619,12 @@ msgstr "Nichtlebensversicherungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_652
-msgid "Reinsurance"
-msgstr "Rückversicherungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6520
 msgid "Reinsurance"
 msgstr "Rückversicherungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_653
-msgid "Pension funding"
-msgstr "Pensionskassen und Pensionsfonds"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6530
 msgid "Pension funding"
 msgstr "Pensionskassen und Pensionsfonds"
@@ -3812,10 +2676,6 @@ msgstr "Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_663
-msgid "Fund management activities"
-msgstr "Fondsmanagement"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6630
 msgid "Fund management activities"
 msgstr "Fondsmanagement"
@@ -3832,23 +2692,11 @@ msgstr "Grundstücks- und Wohnungswesen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_681
-msgid "Rental and operating of own or leased real estate"
-msgstr "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6810
-msgid "Rental and operating of own or leased real estate"
-msgstr "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_681
-msgid "Rental and operating of own or leased real estate"
-msgstr "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6810
 msgid "Rental and operating of own or leased real estate"
-msgstr "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
+msgstr "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_682
@@ -3857,13 +2705,9 @@ msgstr "Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen f�
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6820
-msgid "Management of real estate on a fee or contract basis"
-msgstr "Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6820
 msgid "Management of real estate on a fee or contract basis"
-msgstr "Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+msgstr "Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_M
@@ -3877,20 +2721,12 @@ msgstr "Rechts- und Steuerberatung, Wirtschaftsprüfung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_691
-msgid "Legal activities"
-msgstr "Rechtsberatung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6910
 msgid "Legal activities"
 msgstr "Rechtsberatung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_692
-msgid "Accounting, bookkeeping and auditing activities; tax consultancy"
-msgstr "Wirtschaftsprüfung und Steuerberatung; Buchführung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6920
 msgid "Accounting, bookkeeping and auditing activities; tax consultancy"
 msgstr "Wirtschaftsprüfung und Steuerberatung; Buchführung"
@@ -3902,10 +2738,6 @@ msgstr "Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberat
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_701
-msgid "Activities of head offices"
-msgstr "Verwaltung und Führung von Unternehmen und Betrieben"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7010
 msgid "Activities of head offices"
 msgstr "Verwaltung und Führung von Unternehmen und Betrieben"
@@ -3917,13 +2749,9 @@ msgstr "Public-Relations- und Unternehmensberatung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7020
-msgid "Business and other management consultancy activities"
-msgstr "Public-Relations-Beratung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7020
 msgid "Business and other management consultancy activities"
-msgstr "Unternehmensberatung"
+msgstr "Public-Relations-Beratung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_71
@@ -3937,20 +2765,12 @@ msgstr "Architektur- und Ingenieurbüros"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7110
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7110
 msgid "Engineering activities and related technical consultancy"
 msgstr "Architekturbüros"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7110
-msgid "Engineering activities and related technical consultancy"
-msgstr "Ingenieurbüros"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_712
-msgid "Technical testing and analysis"
-msgstr "Technische, physikalische und chemische Untersuchung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7120
 msgid "Technical testing and analysis"
 msgstr "Technische, physikalische und chemische Untersuchung"
@@ -3967,20 +2787,12 @@ msgstr "Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenscha
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7210
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7210
 msgid "Other research and experimental development on natural sciences and engineering"
 msgstr "Forschung und Entwicklung im Bereich Biotechnologie"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7210
-msgid "Other research and experimental development on natural sciences and engineering"
-msgstr "Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_722
-msgid "Research and experimental development on social sciences and humanities"
-msgstr "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7220
 msgid "Research and experimental development on social sciences and humanities"
 msgstr "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
@@ -3997,20 +2809,12 @@ msgstr "Werbung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7310
 msgid "Media representation"
 msgstr "Werbeagenturen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7310
-msgid "Media representation"
-msgstr "Vermarktung und Vermittlung von Werbezeiten und Werbeflächen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_732
-msgid "Market research and public opinion polling"
-msgstr "Markt- und Meinungsforschung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7320
 msgid "Market research and public opinion polling"
 msgstr "Markt- und Meinungsforschung"
@@ -4022,55 +2826,27 @@ msgstr "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_741
-msgid "Specialised design activities"
-msgstr "Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7410
 msgid "Specialised design activities"
 msgstr "Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_742
-msgid "Photographic activities"
-msgstr "Fotografie und Fotolabors"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7420
 msgid "Photographic activities"
 msgstr "Fotografie und Fotolabors"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_749
-msgid "Other professional, scientific and technical activities n.e.c."
-msgstr "Übersetzen und Dolmetschen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7490
-msgid "Other professional, scientific and technical activities n.e.c."
-msgstr "Übersetzen und Dolmetschen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_749
-msgid "Other professional, scientific and technical activities n.e.c."
-msgstr "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7490
 msgid "Other professional, scientific and technical activities n.e.c."
-msgstr "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g."
+msgstr "Übersetzen und Dolmetschen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_75
-msgid "Veterinary activities"
-msgstr "Veterinärwesen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_750
-msgid "Veterinary activities"
-msgstr "Veterinärwesen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7500
 msgid "Veterinary activities"
 msgstr "Veterinärwesen"
@@ -4092,13 +2868,9 @@ msgstr "Vermietung von Kraftwagen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7710
-msgid "Rental and leasing of trucks"
-msgstr "Vermietung von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7710
 msgid "Rental and leasing of trucks"
-msgstr "Vermietung von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t"
+msgstr "Vermietung von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_772
@@ -4127,40 +2899,16 @@ msgstr "Vermietung von Maschinen, Geräten und sonstigen beweglichen Sachen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
+#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
 msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
 msgstr "Vermietung von landwirtschaftlichen Maschinen und Geräten"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr "Vermietung von Baumaschinen und –geräten"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr "Vermietung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr "Vermietung von Wasserfahrzeugen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr "Vermietung von Luftfahrzeugen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr "Vermietung von sonstigen Maschinen, Geräten und beweglichen Sachen a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_774
-msgid "Leasing of intellectual property and similar products, except copyrighted works"
-msgstr "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7740
 msgid "Leasing of intellectual property and similar products, except copyrighted works"
 msgstr "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
@@ -4172,30 +2920,18 @@ msgstr "Vermittlung und Überlassung von Arbeitskräften"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_781
-msgid "Activities of employment placement agencies"
-msgstr "Vermittlung von Arbeitskräften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7810
 msgid "Activities of employment placement agencies"
 msgstr "Vermittlung von Arbeitskräften"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_782
-msgid "Temporary employment agency activities"
-msgstr "Befristete Überlassung von Arbeitskräften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7820
 msgid "Temporary employment agency activities"
 msgstr "Befristete Überlassung von Arbeitskräften"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_783
-msgid "Other human resources provision"
-msgstr "Sonstige Überlassung von Arbeitskräften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7830
 msgid "Other human resources provision"
 msgstr "Sonstige Überlassung von Arbeitskräften"
@@ -4222,10 +2958,6 @@ msgstr "Reiseveranstalter"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_799
-msgid "Other reservation service and related activities"
-msgstr "Erbringung sonstiger Reservierungsdienstleistungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7990
 msgid "Other reservation service and related activities"
 msgstr "Erbringung sonstiger Reservierungsdienstleistungen"
@@ -4237,30 +2969,18 @@ msgstr "Wach- und Sicherheitsdienste sowie Detekteien"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_801
-msgid "Private security activities"
-msgstr "Private Wach- und Sicherheitsdienste"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8010
 msgid "Private security activities"
 msgstr "Private Wach- und Sicherheitsdienste"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_802
-msgid "Security systems service activities"
-msgstr "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8020
 msgid "Security systems service activities"
 msgstr "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_803
-msgid "Investigation activities"
-msgstr "Detekteien"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8030
 msgid "Investigation activities"
 msgstr "Detekteien"
@@ -4272,10 +2992,6 @@ msgstr "Gebäudebetreuung; Garten- und Landschaftsbau"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_811
-msgid "Combined facilities support activities"
-msgstr "Hausmeisterdienste"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8110
 msgid "Combined facilities support activities"
 msgstr "Hausmeisterdienste"
@@ -4292,20 +3008,12 @@ msgstr "Allgemeine Gebäudereinigung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8129
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8129
 msgid "Other cleaning activities"
 msgstr "Spezielle Reinigung von Gebäuden und Reinigung von Maschinen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8129
-msgid "Other cleaning activities"
-msgstr "Reinigung a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_813
-msgid "Landscape service activities"
-msgstr "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8130
 msgid "Landscape service activities"
 msgstr "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
@@ -4332,20 +3040,12 @@ msgstr "Copy-Shops; Dokumentenvorbereitung und Erbringung sonstiger spezieller S
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_822
-msgid "Activities of call centres"
-msgstr "Call Centers"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8220
 msgid "Activities of call centres"
 msgstr "Call Centers"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_823
-msgid "Organisation of conventions and trade shows"
-msgstr "Messe-, Ausstellungs- und Kongressveranstalter"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8230
 msgid "Organisation of conventions and trade shows"
 msgstr "Messe-, Ausstellungs- und Kongressveranstalter"
@@ -4417,25 +3117,13 @@ msgstr "Verteidigung"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8423
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8423
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8423
 msgid "Fire service activities"
 msgstr "Rechtspflege/Justiz"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8423
-msgid "Fire service activities"
-msgstr "Öffentliche Sicherheit und Ordnung"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8423
-msgid "Fire service activities"
-msgstr "Feuerwehren"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_843
-msgid "Compulsory social security activities"
-msgstr "Sozialversicherung"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8430
 msgid "Compulsory social security activities"
 msgstr "Sozialversicherung"
@@ -4452,23 +3140,15 @@ msgstr "Erziehung und Unterricht"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_851
-msgid "Primary education"
-msgstr "Kindergärten und Vorschulen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8510
-msgid "Primary education "
-msgstr "Kindergärten und Vorschulen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_851
 msgid "Primary education"
-msgstr "Grundschulen/Volksschulen"
+msgstr "Kindergärten und Vorschulen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8510
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8510
 msgid "Primary education "
-msgstr "Grundschulen/Volksschulen"
+msgstr "Kindergärten und Vorschulen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_852
@@ -4492,13 +3172,9 @@ msgstr "Tertiärer und post-sekundärer, nicht tertiärer Unterricht"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8530
-msgid "Tertiary education"
-msgstr "Post-sekundärer, nicht tertiärer Unterricht"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8530
 msgid "Tertiary education"
-msgstr "Tertiärer Unterricht"
+msgstr "Post-sekundärer, nicht tertiärer Unterricht"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_854
@@ -4517,20 +3193,12 @@ msgstr "Kulturunterricht"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8549
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8549
 msgid "Other education n.e.c."
 msgstr "Fahr- und Flugschulen"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8549
-msgid "Other education n.e.c."
-msgstr "Sonstiger Unterricht a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_855
-msgid "Educational support activities"
-msgstr "Erbringung von Dienstleistungen für den Unterricht"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8550
 msgid "Educational support activities"
 msgstr "Erbringung von Dienstleistungen für den Unterricht"
@@ -4547,10 +3215,6 @@ msgstr "Gesundheitswesen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_861
-msgid "Hospital activities"
-msgstr "Krankenhäuser"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8610
 msgid "Hospital activities"
 msgstr "Krankenhäuser"
@@ -4562,25 +3226,13 @@ msgstr "Arzt- und Zahnarztpraxen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8620
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8620
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8620
 msgid "Dental practice activities"
 msgstr "Arztpraxen für Allgemeinmedizin"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8620
-msgid "Dental practice activities"
-msgstr "Facharztpraxen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8620
-msgid "Dental practice activities"
-msgstr "Zahnarztpraxen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_869
-msgid "Other human health activities"
-msgstr "Gesundheitswesen a. n. g."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8690
 msgid "Other human health activities"
 msgstr "Gesundheitswesen a. n. g."
@@ -4592,40 +3244,24 @@ msgstr "Heime (ohne Erholungs- und Ferienheime)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_871
-msgid "Residential nursing care activities"
-msgstr "Pflegeheime"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8710
 msgid "Residential nursing care activities"
 msgstr "Pflegeheime"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_872
-msgid "Residential care activities for mental retardation, mental health and substance abuse"
-msgstr "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8720
 msgid "Residential care activities for mental retardation, mental health and substance abuse"
 msgstr "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_873
-msgid "Residential care activities for the elderly and disabled"
-msgstr "Altenheime; Alten- und Behindertenwohnheime"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8730
 msgid "Residential care activities for the elderly and disabled"
 msgstr "Altenheime; Alten- und Behindertenwohnheime"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_879
-msgid "Other residential care activities"
-msgstr "Sonstige Heime (ohne Erholungs- und Ferienheime)"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8790
 msgid "Other residential care activities"
 msgstr "Sonstige Heime (ohne Erholungs- und Ferienheime)"
@@ -4637,10 +3273,6 @@ msgstr "Sozialwesen (ohne Heime)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_881
-msgid "Social work activities without accommodation for the elderly and disabled"
-msgstr "Soziale Betreuung älterer Menschen und Behinderter"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8810
 msgid "Social work activities without accommodation for the elderly and disabled"
 msgstr "Soziale Betreuung älterer Menschen und Behinderter"
@@ -4652,13 +3284,9 @@ msgstr "Sonstiges Sozialwesen (ohne Heime)"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8890
-msgid "Other social work activities without accommodation n.e.c."
-msgstr "Tagesbetreuung von Kindern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8890
 msgid "Other social work activities without accommodation n.e.c."
-msgstr "Sonstiges Sozialwesen a. n. g."
+msgstr "Tagesbetreuung von Kindern"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_R
@@ -4667,40 +3295,20 @@ msgstr "KUNST, UNTERHALTUNG UND ERHOLUNG"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_90
-msgid "Creative, arts and entertainment activities"
-msgstr "Kreative, künstlerische und unterhaltende Tätigkeiten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_900
 msgid "Creative, arts and entertainment activities"
 msgstr "Kreative, künstlerische und unterhaltende Tätigkeiten"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9000
+#: model:res.partner.nace,name:l10n_eu_nace.nace_9000
+#: model:res.partner.nace,name:l10n_eu_nace.nace_9000
+#: model:res.partner.nace,name:l10n_eu_nace.nace_9000
 msgid "Operation of arts facilities"
 msgstr "Darstellende Kunst"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_9000
-msgid "Operation of arts facilities"
-msgstr "Erbringung von Dienstleistungen für die darstellende Kunst"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_9000
-msgid "Operation of arts facilities"
-msgstr "Künstlerisches und schriftstellerisches Schaffen"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_9000
-msgid "Operation of arts facilities"
-msgstr "Betrieb von Kultur- und Unterhaltungseinrichtungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_91
-msgid "Libraries, archives, museums and other cultural activities"
-msgstr "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_910
 msgid "Libraries, archives, museums and other cultural activities"
 msgstr "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
@@ -4712,13 +3320,9 @@ msgstr "Bibliotheken und Archive"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9102
-msgid "Operation of historical sites and buildings and similar visitor attractions"
-msgstr "Museen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9102
 msgid "Operation of historical sites and buildings and similar visitor attractions"
-msgstr "Betrieb von historischen Stätten und Gebäuden und ähnlichen Attraktionen"
+msgstr "Museen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9103
@@ -4727,15 +3331,7 @@ msgstr "Botanische und zoologische Gärten sowie Naturparks"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_92
-msgid "Gambling and betting activities"
-msgstr "Spiel-, Wett- und Lotteriewesen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_920
-msgid "Gambling and betting activities"
-msgstr "Spiel-, Wett- und Lotteriewesen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9200
 msgid "Gambling and betting activities"
 msgstr "Spiel-, Wett- und Lotteriewesen"
@@ -4752,6 +3348,7 @@ msgstr "Erbringung von Dienstleistungen des Sports"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9311
+#: model:res.partner.nace,name:l10n_eu_nace.nace_9311
 msgid "Fitness facilities"
 msgstr "Betrieb von Sportanlagen"
 
@@ -4759,11 +3356,6 @@ msgstr "Betrieb von Sportanlagen"
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9312
 msgid "Activities of sports clubs"
 msgstr "Sportvereine"
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_9311
-msgid "Fitness facilities"
-msgstr "Fitnesszentren"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9319
@@ -4812,10 +3404,6 @@ msgstr "Berufsorganisationen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_942
-msgid "Activities of trade unions"
-msgstr "Arbeitnehmervereinigungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9420
 msgid "Activities of trade unions"
 msgstr "Arbeitnehmervereinigungen"
@@ -4887,20 +3475,12 @@ msgstr "Reparatur von Möbeln und Einrichtungsgegenständen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9529
+#: model:res.partner.nace,name:l10n_eu_nace.nace_9529
 msgid "Repair of other personal and household goods"
 msgstr "Reparatur von Uhren und Schmuck"
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_9529
-msgid "Repair of other personal and household goods"
-msgstr "Reparatur von sonstigen Gebrauchsgütern"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_96
-msgid "Other personal service activities"
-msgstr "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_960
 msgid "Other personal service activities"
 msgstr "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
@@ -4922,13 +3502,9 @@ msgstr "Bestattungswesen"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9609
-msgid "Other personal service activities n.e.c."
-msgstr "Saunas, Solarien, Bäder u. Ä."
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9609
 msgid "Other personal service activities n.e.c."
-msgstr "Erbringung von sonstigen Dienstleistungen a. n. g."
+msgstr "Saunas, Solarien, Bäder u. Ä."
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_T
@@ -4937,15 +3513,7 @@ msgstr "PRIVATE HAUSHALTE MIT HAUSPERSONAL; HERSTELLUNG VON WAREN UND ERBRINGUNG
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_97
-msgid "Activities of households as employers of domestic personnel"
-msgstr "Private Haushalte mit Hauspersonal"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_970
-msgid "Activities of households as employers of domestic personnel"
-msgstr "Private Haushalte mit Hauspersonal"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9700
 msgid "Activities of households as employers of domestic personnel"
 msgstr "Private Haushalte mit Hauspersonal"
@@ -4957,20 +3525,12 @@ msgstr "Herstellung von Waren und Erbringung von Dienstleistungen durch private 
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_981
-msgid "Undifferentiated goods-producing activities of private households for own use"
-msgstr "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9810
 msgid "Undifferentiated goods-producing activities of private households for own use"
 msgstr "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_982
-msgid "Undifferentiated service-producing activities of private households for own use"
-msgstr "Erbringungen von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9820
 msgid "Undifferentiated service-producing activities of private households for own use"
 msgstr "Erbringungen von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
@@ -4982,15 +3542,7 @@ msgstr "EXTERRITORIALE ORGANISATIONEN UND KÖRPERSCHAFTEN"
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_99
-msgid "Activities of extraterritorial organisations and bodies"
-msgstr "Exterritoriale Organisationen und Körperschaften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_990
-msgid "Activities of extraterritorial organisations and bodies"
-msgstr "Exterritoriale Organisationen und Körperschaften"
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9900
 msgid "Activities of extraterritorial organisations and bodies"
 msgstr "Exterritoriale Organisationen und Körperschaften"

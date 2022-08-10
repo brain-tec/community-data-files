@@ -117,10 +117,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_013
-msgid "Plant propagation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0130
 msgid "Plant propagation"
 msgstr ""
@@ -132,10 +128,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0141
-msgid "Raising of other cattle and buffaloes"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0141
 msgid "Raising of other cattle and buffaloes"
 msgstr ""
@@ -172,10 +164,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_015
-msgid "Mixed farming"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0150
 msgid "Mixed farming"
 msgstr ""
@@ -207,10 +195,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_017
-msgid "Hunting, trapping and related service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0170
 msgid "Hunting, trapping and related service activities"
 msgstr ""
@@ -222,40 +206,24 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_021
-msgid "Silviculture and other forestry activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0210
 msgid "Silviculture and other forestry activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_022
-msgid "Logging"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0220
 msgid "Logging"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_023
-msgid "Gathering of wild growing non-wood products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0230
 msgid "Gathering of wild growing non-wood products"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_024
-msgid "Support services to forestry"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0240
 msgid "Support services to forestry"
 msgstr ""
@@ -307,20 +275,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_051
-msgid "Mining of hard coal"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0510
 msgid "Mining of hard coal"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_052
-msgid "Mining of lignite"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0520
 msgid "Mining of lignite"
 msgstr ""
@@ -332,20 +292,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_061
-msgid "Extraction of crude petroleum"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0610
 msgid "Extraction of crude petroleum"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_062
-msgid "Extraction of natural gas"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0620
 msgid "Extraction of natural gas"
 msgstr ""
@@ -357,10 +309,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_071
-msgid "Mining of iron ores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0710
 msgid "Mining of iron ores"
 msgstr ""
@@ -392,10 +340,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0810
-msgid "Operation of gravel and sand pits; mining of clays and kaolin"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0810
 msgid "Operation of gravel and sand pits; mining of clays and kaolin"
 msgstr ""
@@ -432,20 +376,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_091
-msgid "Support activities for petroleum and natural gas extraction"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0910
 msgid "Support activities for petroleum and natural gas extraction"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_099
-msgid "Support activities for other mining and quarrying"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_0990
 msgid "Support activities for other mining and quarrying"
 msgstr ""
@@ -467,25 +403,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1010
-msgid "Production of meat and poultry meat products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1010
-msgid "Production of meat and poultry meat products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1010
 msgid "Production of meat and poultry meat products"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_102
-msgid "Processing and preserving of fish, crustaceans and molluscs"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1020
 msgid "Processing and preserving of fish, crustaceans and molluscs"
 msgstr ""
@@ -497,15 +421,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1030
-msgid "Other processing and preserving of fruit and vegetables"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1030
-msgid "Other processing and preserving of fruit and vegetables"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1030
 msgid "Other processing and preserving of fruit and vegetables"
 msgstr ""
@@ -517,10 +433,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1040
-msgid "Manufacture of margarine and similar edible fats"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1040
 msgid "Manufacture of margarine and similar edible fats"
 msgstr ""
@@ -532,10 +444,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1050
-msgid "Manufacture of ice cream"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1050
 msgid "Manufacture of ice cream"
 msgstr ""
@@ -557,15 +465,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_107
+#: model:res.partner.nace,name:l10n_eu_nace.nace_107
 msgid "Manufacture of other food products"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1071
-msgid "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1071
 msgid "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
 msgstr ""
@@ -573,11 +478,6 @@ msgstr ""
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1074
 msgid "Manufacture of macaroni, noodles, couscous and similar farinaceous products"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_107
-msgid "Manufacture of other food products"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -592,10 +492,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1079
-msgid "Manufacture of other food products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1079
 msgid "Manufacture of other food products n.e.c."
 msgstr ""
@@ -606,36 +504,18 @@ msgid "Manufacture of prepared meals and dishes"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
-msgid "Manufacture of other food products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1079
-msgid "Manufacture of other food products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_108
 msgid "Manufacture of prepared animal feeds"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1080
-msgid "Manufacture of prepared pet foods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1080
 msgid "Manufacture of prepared pet foods"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_11
-msgid "Manufacture of beverages"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_110
 msgid "Manufacture of beverages"
 msgstr ""
@@ -647,25 +527,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1102
-msgid "Manufacture of other non-distilled fermented beverages"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1102
-msgid "Manufacture of other non-distilled fermented beverages"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1102
 msgid "Manufacture of other non-distilled fermented beverages"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1103
-msgid "Manufacture of malt"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1103
 msgid "Manufacture of malt"
 msgstr ""
@@ -677,15 +545,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_12
-msgid "Manufacture of tobacco products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_120
-msgid "Manufacture of tobacco products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1200
 msgid "Manufacture of tobacco products"
 msgstr ""
@@ -697,6 +557,9 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_131
+#: model:res.partner.nace,name:l10n_eu_nace.nace_131
+#: model:res.partner.nace,name:l10n_eu_nace.nace_131
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1313
 msgid "Finishing of textiles"
 msgstr ""
 
@@ -706,23 +569,8 @@ msgid "Preparation and spinning of textile fibres"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_131
-msgid "Finishing of textiles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1312
 msgid "Weaving of textiles"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_131
-msgid "Finishing of textiles"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1313
-msgid "Finishing of textiles"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -752,15 +600,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1399
-msgid "Manufacture of other textiles n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1399
-msgid "Manufacture of other textiles n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1399
 msgid "Manufacture of other textiles n.e.c."
 msgstr ""
@@ -777,35 +617,15 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1410
-msgid "Manufacture of other wearing apparel and accessories"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1410
 msgid "Manufacture of other wearing apparel and accessories"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_142
-msgid "Manufacture of articles of fur"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1420
 msgid "Manufacture of articles of fur"
 msgstr ""
@@ -817,10 +637,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1430
-msgid "Manufacture of other knitted and crocheted apparel"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1430
 msgid "Manufacture of other knitted and crocheted apparel"
 msgstr ""
@@ -847,10 +663,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_152
-msgid "Manufacture of footwear"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1520
 msgid "Manufacture of footwear"
 msgstr ""
@@ -862,10 +674,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_161
-msgid "Sawmilling and planing of wood"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1610
 msgid "Sawmilling and planing of wood"
 msgstr ""
@@ -882,10 +690,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1622
-msgid "Manufacture of other builders' carpentry and joinery"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1622
 msgid "Manufacture of other builders' carpentry and joinery"
 msgstr ""
@@ -907,22 +711,14 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_170
-msgid "Manufacture of articles of paper and paperboard "
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1701
-msgid "Manufacture of paper and paperboard"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_1701
-msgid "Manufacture of paper and paperboard"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_170
 msgid "Manufacture of articles of paper and paperboard "
+msgstr ""
+
+#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1701
+#: model:res.partner.nace,name:l10n_eu_nace.nace_1701
+msgid "Manufacture of paper and paperboard"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -932,20 +728,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1709
-msgid "Manufacture of other articles of paper and paperboard"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1709
-msgid "Manufacture of other articles of paper and paperboard"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1709
-msgid "Manufacture of other articles of paper and paperboard"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1709
 msgid "Manufacture of other articles of paper and paperboard"
 msgstr ""
@@ -962,30 +746,18 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1811
-msgid "Other printing"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1811
 msgid "Other printing"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1812
-msgid "Binding and related services"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1812
 msgid "Binding and related services"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_182
-msgid "Reproduction of recorded media"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1820
 msgid "Reproduction of recorded media"
 msgstr ""
@@ -997,20 +769,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_191
-msgid "Manufacture of coke oven products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1910
 msgid "Manufacture of coke oven products"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_192
-msgid "Manufacture of refined petroleum products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_1920
 msgid "Manufacture of refined petroleum products"
 msgstr ""
@@ -1027,20 +791,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2011
-msgid "Manufacture of other organic basic chemicals"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2011
-msgid "Manufacture of other organic basic chemicals"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2011
-msgid "Manufacture of other organic basic chemicals"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2011
 msgid "Manufacture of other organic basic chemicals"
 msgstr ""
@@ -1052,15 +804,14 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2013
-msgid "Manufacture of synthetic rubber in primary forms"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2013
 msgid "Manufacture of synthetic rubber in primary forms"
 msgstr ""
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_202
+#: model:res.partner.nace,name:l10n_eu_nace.nace_202
+#: model:res.partner.nace,name:l10n_eu_nace.nace_202
 #: model:res.partner.nace,name:l10n_eu_nace.nace_202
 msgid "Manufacture of other chemical products"
 msgstr ""
@@ -1071,61 +822,26 @@ msgid "Manufacture of pesticides and other agrochemical products"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_202
-msgid "Manufacture of other chemical products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2022
 msgid "Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_202
-msgid "Manufacture of other chemical products"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2023
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2023
 msgid "Manufacture of perfumes and toilet preparations"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2023
-msgid "Manufacture of perfumes and toilet preparations"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_202
-msgid "Manufacture of other chemical products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2029
-msgid "Manufacture of other chemical products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2029
-msgid "Manufacture of other chemical products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2029
-msgid "Manufacture of other chemical products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2029
 msgid "Manufacture of other chemical products n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_203
-msgid "Manufacture of man-made fibres"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2030
 msgid "Manufacture of man-made fibres"
 msgstr ""
@@ -1137,20 +853,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_210
-msgid "Manufacture of pharmaceutical preparations"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2100
-msgid "Manufacture of pharmaceutical preparations"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_210
-msgid "Manufacture of pharmaceutical preparations"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2100
 msgid "Manufacture of pharmaceutical preparations"
 msgstr ""
@@ -1182,20 +886,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2220
-msgid "Manufacture of other plastic products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2220
-msgid "Manufacture of other plastic products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2220
-msgid "Manufacture of other plastic products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2220
 msgid "Manufacture of other plastic products"
 msgstr ""
@@ -1212,30 +904,20 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2310
 msgid "Manufacture and processing of other glass, including technical glassware"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2310
-msgid "Manufacture and processing of other glass, including technical glassware"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
+#: model:res.partner.nace,name:l10n_eu_nace.nace_239
 #: model:res.partner.nace,name:l10n_eu_nace.nace_239
 msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
 msgstr ""
@@ -1246,103 +928,34 @@ msgid "Manufacture of refractory products"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2392
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2392
 msgid "Manufacture of bricks, tiles and construction products, in baked clay"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2392
-msgid "Manufacture of bricks, tiles and construction products, in baked clay"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2393
 msgid "Manufacture of other ceramic products"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2393
-msgid "Manufacture of other ceramic products"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2394
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2394
 msgid "Manufacture of lime and plaster"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2394
-msgid "Manufacture of lime and plaster"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2395
 msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2395
-msgid "Manufacture of other articles of concrete, plaster and cement"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -1351,16 +964,7 @@ msgid "Cutting, shaping and finishing of stone"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_239
-msgid "Manufacture of abrasive products and non-metallic mineral products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2399
-msgid "Manufacture of other non-metallic mineral products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2399
 msgid "Manufacture of other non-metallic mineral products n.e.c."
 msgstr ""
@@ -1372,45 +976,17 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_241
-msgid "Manufacture of other products of first processing of steel"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_241
 #: model:res.partner.nace,name:l10n_eu_nace.nace_241
 msgid "Manufacture of other products of first processing of steel"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_241
-msgid "Manufacture of other products of first processing of steel"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2410
-msgid "Cold drawing of wire"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2410
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2410
 msgid "Cold drawing of wire"
 msgstr ""
@@ -1422,30 +998,10 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
-msgid "Processing of nuclear fuel "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2420
 msgid "Processing of nuclear fuel "
 msgstr ""
@@ -1457,20 +1013,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2431
-msgid "Casting of steel"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2431
 msgid "Casting of steel"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2432
-msgid "Casting of other non-ferrous metals"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2432
 msgid "Casting of other non-ferrous metals"
 msgstr ""
@@ -1482,55 +1030,34 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_251
-msgid "Manufacture of steam generators, except central heating hot water boilers"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2511
-msgid "Manufacture of doors and windows of metal"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2511
-msgid "Manufacture of doors and windows of metal"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_251
-msgid "Manufacture of steam generators, except central heating hot water boilers"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2512
-msgid "Manufacture of other tanks, reservoirs and containers of metal"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2512
-msgid "Manufacture of other tanks, reservoirs and containers of metal"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_251
-msgid "Manufacture of steam generators, except central heating hot water boilers"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2513
 msgid "Manufacture of steam generators, except central heating hot water boilers"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_252
-msgid "Manufacture of weapons and ammunition"
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2511
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2511
+msgid "Manufacture of doors and windows of metal"
 msgstr ""
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2512
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2512
+msgid "Manufacture of other tanks, reservoirs and containers of metal"
+msgstr ""
+
+#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_252
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2520
 msgid "Manufacture of weapons and ammunition"
 msgstr ""
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_259
+#: model:res.partner.nace,name:l10n_eu_nace.nace_259
+#: model:res.partner.nace,name:l10n_eu_nace.nace_259
 #: model:res.partner.nace,name:l10n_eu_nace.nace_259
 msgid "Manufacture of other fabricated metal products"
 msgstr ""
@@ -1541,66 +1068,23 @@ msgid "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_259
-msgid "Manufacture of other fabricated metal products"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2592
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2592
 msgid "Machining"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2592
-msgid "Machining"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_259
-msgid "Manufacture of other fabricated metal products"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2593
 msgid "Manufacture of tools"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
-msgid "Manufacture of tools"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2593
-msgid "Manufacture of tools"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_259
-msgid "Manufacture of other fabricated metal products"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2599
-msgid "Manufacture of other fabricated metal products n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2599
 msgid "Manufacture of other fabricated metal products n.e.c."
 msgstr ""
@@ -1617,40 +1101,24 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2610
-msgid "Manufacture of loaded electronic boards"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2610
 msgid "Manufacture of loaded electronic boards"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_262
-msgid "Manufacture of computers and peripheral equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2620
 msgid "Manufacture of computers and peripheral equipment"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_263
-msgid "Manufacture of communication equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2630
 msgid "Manufacture of communication equipment"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_264
-msgid "Manufacture of consumer electronics"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2640
 msgid "Manufacture of consumer electronics"
 msgstr ""
@@ -1672,30 +1140,18 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_266
-msgid "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2660
 msgid "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_267
-msgid "Manufacture of optical instruments and photographic equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2670
 msgid "Manufacture of optical instruments and photographic equipment"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_268
-msgid "Manufacture of magnetic and optical media"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2680
 msgid "Manufacture of magnetic and optical media"
 msgstr ""
@@ -1712,20 +1168,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2710
-msgid "Manufacture of electricity distribution and control apparatus"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2710
 msgid "Manufacture of electricity distribution and control apparatus"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_272
-msgid "Manufacture of batteries and accumulators"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2720
 msgid "Manufacture of batteries and accumulators"
 msgstr ""
@@ -1752,10 +1200,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_274
-msgid "Manufacture of electric lighting equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2740
 msgid "Manufacture of electric lighting equipment"
 msgstr ""
@@ -1767,20 +1211,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2750
-msgid "Manufacture of non-electric domestic appliances"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2750
 msgid "Manufacture of non-electric domestic appliances"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_279
-msgid "Manufacture of other electrical equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2790
 msgid "Manufacture of other electrical equipment"
 msgstr ""
@@ -1791,6 +1227,7 @@ msgid "Manufacture of machinery and equipment n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_281
 #: model:res.partner.nace,name:l10n_eu_nace.nace_281
 msgid "Manufacture of other general-purpose machinery"
 msgstr ""
@@ -1807,10 +1244,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2813
-msgid "Manufacture of other taps and valves"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2813
 msgid "Manufacture of other taps and valves"
 msgstr ""
@@ -1818,11 +1251,6 @@ msgstr ""
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2814
 msgid "Manufacture of bearings, gears, gearing and driving elements"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_281
-msgid "Manufacture of other general-purpose machinery"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -1847,15 +1275,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2819
-msgid "Manufacture of other general-purpose machinery n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2819
 msgid "Manufacture of other general-purpose machinery n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_282
+#: model:res.partner.nace,name:l10n_eu_nace.nace_282
 #: model:res.partner.nace,name:l10n_eu_nace.nace_282
 msgid "Manufacture of other special-purpose machinery"
 msgstr ""
@@ -1866,23 +1292,9 @@ msgid "Manufacture of agricultural and forestry machinery"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_282
-msgid "Manufacture of other special-purpose machinery"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_2822
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2822
 msgid "Manufacture of other machine tools"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_2822
-msgid "Manufacture of other machine tools"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_282
-msgid "Manufacture of other special-purpose machinery"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -1907,15 +1319,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2829
-msgid "Manufacture of other special-purpose machinery n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2829
-msgid "Manufacture of other special-purpose machinery n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2829
 msgid "Manufacture of other special-purpose machinery n.e.c."
 msgstr ""
@@ -1927,20 +1331,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_291
-msgid "Manufacture of motor vehicles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2910
 msgid "Manufacture of motor vehicles"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_292
-msgid "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2920
 msgid "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
 msgstr ""
@@ -1952,10 +1348,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2930
-msgid "Manufacture of other parts and accessories for motor vehicles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_2930
 msgid "Manufacture of other parts and accessories for motor vehicles"
 msgstr ""
@@ -1982,30 +1374,18 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_302
-msgid "Manufacture of railway locomotives and rolling stock"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3020
 msgid "Manufacture of railway locomotives and rolling stock"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_303
-msgid "Manufacture of air and spacecraft and related machinery"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3030
 msgid "Manufacture of air and spacecraft and related machinery"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_304
-msgid "Manufacture of military fighting vehicles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3040
 msgid "Manufacture of military fighting vehicles"
 msgstr ""
@@ -2032,30 +1412,14 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_31
-msgid "Manufacture of furniture"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_310
 msgid "Manufacture of furniture"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3100
-msgid "Manufacture of other furniture"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3100
-msgid "Manufacture of other furniture"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3100
-msgid "Manufacture of other furniture"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3100
 msgid "Manufacture of other furniture"
 msgstr ""
@@ -2072,10 +1436,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3211
-msgid "Manufacture of jewellery and related articles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3211
 msgid "Manufacture of jewellery and related articles"
 msgstr ""
@@ -2087,40 +1447,24 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_322
-msgid "Manufacture of musical instruments"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3220
 msgid "Manufacture of musical instruments"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_323
-msgid "Manufacture of sports goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3230
 msgid "Manufacture of sports goods"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_324
-msgid "Manufacture of games and toys"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3240
 msgid "Manufacture of games and toys"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_325
-msgid "Manufacture of medical and dental instruments and supplies"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3250
 msgid "Manufacture of medical and dental instruments and supplies"
 msgstr ""
@@ -2132,10 +1476,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3290
-msgid "Other manufacturing n.e.c. "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3290
 msgid "Other manufacturing n.e.c. "
 msgstr ""
@@ -2172,15 +1512,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3315
-msgid "Repair and maintenance of other transport equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3315
-msgid "Repair and maintenance of other transport equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3315
 msgid "Repair and maintenance of other transport equipment"
 msgstr ""
@@ -2192,10 +1524,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_332
-msgid "Installation of industrial machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3320
 msgid "Installation of industrial machinery and equipment"
 msgstr ""
@@ -2217,20 +1545,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3510
-msgid "Trade of electricity"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3510
-msgid "Trade of electricity"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3510
-msgid "Trade of electricity"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3510
 msgid "Trade of electricity"
 msgstr ""
@@ -2242,25 +1558,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3520
-msgid "Trade of gas through mains"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3520
-msgid "Trade of gas through mains"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3520
 msgid "Trade of gas through mains"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_353
-msgid "Steam and air conditioning supply"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3530
 msgid "Steam and air conditioning supply"
 msgstr ""
@@ -2272,30 +1576,14 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_36
-msgid "Water collection, treatment and supply"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_360
-msgid "Water collection, treatment and supply"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3600
 msgid "Water collection, treatment and supply"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_37
-msgid "Sewerage"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_370
-msgid "Sewerage"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3700
 msgid "Sewerage"
 msgstr ""
@@ -2342,25 +1630,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3830
-msgid "Recovery of sorted materials"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3830
 msgid "Recovery of sorted materials"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_39
-msgid "Remediation activities and other waste management services"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_390
-msgid "Remediation activities and other waste management services"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_3900
 msgid "Remediation activities and other waste management services"
 msgstr ""
@@ -2377,20 +1653,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_410
-msgid "Construction of residential and non-residential buildings"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4100
-msgid "Construction of residential and non-residential buildings"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_410
-msgid "Construction of residential and non-residential buildings"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4100
 msgid "Construction of residential and non-residential buildings"
 msgstr ""
@@ -2407,15 +1671,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4210
-msgid "Construction of bridges and tunnels"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4210
-msgid "Construction of bridges and tunnels"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4210
 msgid "Construction of bridges and tunnels"
 msgstr ""
@@ -2427,10 +1683,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4220
-msgid "Construction of utility projects for electricity and telecommunications"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4220
 msgid "Construction of utility projects for electricity and telecommunications"
 msgstr ""
@@ -2442,10 +1694,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4290
-msgid "Construction of other civil engineering projects n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4290
 msgid "Construction of other civil engineering projects n.e.c."
 msgstr ""
@@ -2467,10 +1715,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4312
-msgid "Test drilling and boring"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4312
 msgid "Test drilling and boring"
 msgstr ""
@@ -2502,25 +1746,9 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4330
-msgid "Other building completion and finishing"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4330
 msgid "Other building completion and finishing"
 msgstr ""
@@ -2532,10 +1760,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4390
-msgid "Other specialised construction activities n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4390
 msgid "Other specialised construction activities n.e.c."
 msgstr ""
@@ -2557,20 +1781,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4510
-msgid "Sale of other motor vehicles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4510
 msgid "Sale of other motor vehicles"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_452
-msgid "Maintenance and repair of motor vehicles"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4520
 msgid "Maintenance and repair of motor vehicles"
 msgstr ""
@@ -2582,20 +1798,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4530
-msgid "Retail trade of motor vehicle parts and accessories"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4530
 msgid "Retail trade of motor vehicle parts and accessories"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_454
-msgid "Sale, maintenance and repair of motorcycles and related parts and accessories"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4540
 msgid "Sale, maintenance and repair of motorcycles and related parts and accessories"
 msgstr ""
@@ -2612,45 +1820,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
-msgid "Agents involved in the sale of a variety of goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4610
 msgid "Agents involved in the sale of a variety of goods"
 msgstr ""
@@ -2662,20 +1838,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4620
-msgid "Wholesale of hides, skins and leather"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4620
-msgid "Wholesale of hides, skins and leather"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4620
-msgid "Wholesale of hides, skins and leather"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4620
 msgid "Wholesale of hides, skins and leather"
 msgstr ""
@@ -2687,45 +1851,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
-msgid "Non-specialised wholesale of food, beverages and tobacco"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4630
 msgid "Non-specialised wholesale of food, beverages and tobacco"
 msgstr ""
@@ -2737,45 +1869,17 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4641
-msgid "Wholesale of clothing and footwear"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4641
 msgid "Wholesale of clothing and footwear"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
-msgid "Wholesale of other household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4649
 msgid "Wholesale of other household goods"
 msgstr ""
@@ -2797,6 +1901,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_466
+#: model:res.partner.nace,name:l10n_eu_nace.nace_466
 msgid "Other specialised wholesale"
 msgstr ""
 
@@ -2807,37 +1912,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4659
 msgid "Wholesale of other machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4659
-msgid "Wholesale of other machinery and equipment"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_466
-msgid "Other specialised wholesale"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -2852,35 +1932,19 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4663
-msgid "Wholesale of hardware, plumbing and heating equipment and supplies"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4663
 msgid "Wholesale of hardware, plumbing and heating equipment and supplies"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4669
-msgid "Wholesale of waste and scrap"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4669
-msgid "Wholesale of waste and scrap"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4669
 msgid "Wholesale of waste and scrap"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_469
-msgid "Non-specialised wholesale trade"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4690
 msgid "Non-specialised wholesale trade"
 msgstr ""
@@ -2912,20 +1976,9 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4721
 msgid "Other retail sale of food in specialised stores"
 msgstr ""
@@ -2941,16 +1994,7 @@ msgid "Retail sale of tobacco products in specialised stores"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4721
-msgid "Other retail sale of food in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_473
-msgid "Retail sale of automotive fuel in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4730
 msgid "Retail sale of automotive fuel in specialised stores"
 msgstr ""
@@ -2962,10 +2006,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4741
-msgid "Retail sale of telecommunications equipment in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4741
 msgid "Retail sale of telecommunications equipment in specialised stores"
 msgstr ""
@@ -2997,10 +2037,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4759
-msgid "Retail sale of furniture, lighting equipment and other household articles in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4759
 msgid "Retail sale of furniture, lighting equipment and other household articles in specialised stores"
 msgstr ""
@@ -3012,10 +2048,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4761
-msgid "Retail sale of newspapers and stationery in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4761
 msgid "Retail sale of newspapers and stationery in specialised stores"
 msgstr ""
@@ -3042,40 +2074,20 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4771
-msgid "Retail sale of footwear and leather goods in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4771
 msgid "Retail sale of footwear and leather goods in specialised stores"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4772
-msgid "Retail sale of cosmetic and toilet articles in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4772
-msgid "Retail sale of cosmetic and toilet articles in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4772
 msgid "Retail sale of cosmetic and toilet articles in specialised stores"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4773
-msgid "Other retail sale of new goods in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4773
-msgid "Other retail sale of new goods in specialised stores"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4773
 msgid "Other retail sale of new goods in specialised stores"
 msgstr ""
@@ -3132,6 +2144,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_491
+#: model:res.partner.nace,name:l10n_eu_nace.nace_491
+#: model:res.partner.nace,name:l10n_eu_nace.nace_4912
 msgid "Freight rail transport"
 msgstr ""
 
@@ -3141,16 +2155,7 @@ msgid "Passenger rail transport, interurban"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_491
-msgid "Freight rail transport"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_4912
-msgid "Freight rail transport"
-msgstr ""
-
-#. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_492
 #: model:res.partner.nace,name:l10n_eu_nace.nace_492
 msgid "Freight transport by road and removal services"
 msgstr ""
@@ -3162,35 +2167,18 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4922
-msgid "Other passenger land transport n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4922
 msgid "Other passenger land transport n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_492
-msgid "Freight transport by road and removal services"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4923
-msgid "Removal services"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4923
 msgid "Removal services"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_493
-msgid "Transport via pipeline"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_4930
 msgid "Transport via pipeline"
 msgstr ""
@@ -3202,6 +2190,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_501
+#: model:res.partner.nace,name:l10n_eu_nace.nace_501
+#: model:res.partner.nace,name:l10n_eu_nace.nace_5012
 msgid "Sea and coastal freight water transport"
 msgstr ""
 
@@ -3211,17 +2201,9 @@ msgid "Sea and coastal passenger water transport"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_501
-msgid "Sea and coastal freight water transport"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_5012
-msgid "Sea and coastal freight water transport"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_502
+#: model:res.partner.nace,name:l10n_eu_nace.nace_502
+#: model:res.partner.nace,name:l10n_eu_nace.nace_5022
 msgid "Inland freight water transport"
 msgstr ""
 
@@ -3231,26 +2213,12 @@ msgid "Inland passenger water transport"
 msgstr ""
 
 #. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_502
-msgid "Inland freight water transport"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_5022
-msgid "Inland freight water transport"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_51
 msgid "Air transport"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_511
-msgid "Passenger air transport"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5110
 msgid "Passenger air transport"
 msgstr ""
@@ -3262,10 +2230,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5120
-msgid "Space transport"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5120
 msgid "Space transport"
 msgstr ""
@@ -3277,10 +2241,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_521
-msgid "Warehousing and storage"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5210
 msgid "Warehousing and storage"
 msgstr ""
@@ -3322,20 +2282,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_531
-msgid "Postal activities under universal service obligation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5310
 msgid "Postal activities under universal service obligation"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_532
-msgid "Other postal and courier activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5320
 msgid "Other postal and courier activities"
 msgstr ""
@@ -3352,40 +2304,20 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_551
-msgid "Holiday and other short-stay accommodation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5510
-msgid "Holiday and other short-stay accommodation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_551
-msgid "Holiday and other short-stay accommodation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5510
 msgid "Holiday and other short-stay accommodation"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_552
-msgid "Camping grounds, recreational vehicle parks and trailer parks"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5520
 msgid "Camping grounds, recreational vehicle parks and trailer parks"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_559
-msgid "Other accommodation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5590
 msgid "Other accommodation"
 msgstr ""
@@ -3397,10 +2329,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_561
-msgid "Restaurants and mobile food service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5610
 msgid "Restaurants and mobile food service activities"
 msgstr ""
@@ -3422,10 +2350,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_563
-msgid "Beverage serving activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5630
 msgid "Beverage serving activities"
 msgstr ""
@@ -3457,10 +2381,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5813
-msgid "Publishing of journals and periodicals"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5813
 msgid "Publishing of journals and periodicals"
 msgstr ""
@@ -3477,10 +2397,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5820
-msgid "Other software publishing"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5820
 msgid "Other software publishing"
 msgstr ""
@@ -3517,10 +2433,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_592
-msgid "Sound recording and music publishing activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_5920
 msgid "Sound recording and music publishing activities"
 msgstr ""
@@ -3532,20 +2444,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_601
-msgid "Radio broadcasting"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6010
 msgid "Radio broadcasting"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_602
-msgid "Television programming and broadcasting activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6020
 msgid "Television programming and broadcasting activities"
 msgstr ""
@@ -3557,50 +2461,30 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_611
-msgid "Wired telecommunications activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6110
 msgid "Wired telecommunications activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_612
-msgid "Wireless telecommunications activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6120
 msgid "Wireless telecommunications activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_613
-msgid "Satellite telecommunications activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6130
 msgid "Satellite telecommunications activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_619
-msgid "Other telecommunications activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6190
 msgid "Other telecommunications activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_62
-msgid "Computer programming, consultancy and related activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_620
 msgid "Computer programming, consultancy and related activities"
 msgstr ""
@@ -3612,10 +2496,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6202
-msgid "Computer facilities management activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6202
 msgid "Computer facilities management activities"
 msgstr ""
@@ -3687,20 +2567,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_642
-msgid "Activities of holding companies"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6420
 msgid "Activities of holding companies"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_643
-msgid "Trusts, funds and similar financial entities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6430
 msgid "Trusts, funds and similar financial entities"
 msgstr ""
@@ -3747,20 +2619,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_652
-msgid "Reinsurance"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6520
 msgid "Reinsurance"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_653
-msgid "Pension funding"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6530
 msgid "Pension funding"
 msgstr ""
@@ -3812,10 +2676,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_663
-msgid "Fund management activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6630
 msgid "Fund management activities"
 msgstr ""
@@ -3832,20 +2692,8 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_681
-msgid "Rental and operating of own or leased real estate"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6810
-msgid "Rental and operating of own or leased real estate"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_681
-msgid "Rental and operating of own or leased real estate"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6810
 msgid "Rental and operating of own or leased real estate"
 msgstr ""
@@ -3857,10 +2705,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6820
-msgid "Management of real estate on a fee or contract basis"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6820
 msgid "Management of real estate on a fee or contract basis"
 msgstr ""
@@ -3877,20 +2721,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_691
-msgid "Legal activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6910
 msgid "Legal activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_692
-msgid "Accounting, bookkeeping and auditing activities; tax consultancy"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_6920
 msgid "Accounting, bookkeeping and auditing activities; tax consultancy"
 msgstr ""
@@ -3902,10 +2738,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_701
-msgid "Activities of head offices"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7010
 msgid "Activities of head offices"
 msgstr ""
@@ -3917,10 +2749,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7020
-msgid "Business and other management consultancy activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7020
 msgid "Business and other management consultancy activities"
 msgstr ""
@@ -3937,20 +2765,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7110
-msgid "Engineering activities and related technical consultancy"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7110
 msgid "Engineering activities and related technical consultancy"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_712
-msgid "Technical testing and analysis"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7120
 msgid "Technical testing and analysis"
 msgstr ""
@@ -3967,20 +2787,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7210
-msgid "Other research and experimental development on natural sciences and engineering"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7210
 msgid "Other research and experimental development on natural sciences and engineering"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_722
-msgid "Research and experimental development on social sciences and humanities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7220
 msgid "Research and experimental development on social sciences and humanities"
 msgstr ""
@@ -3997,20 +2809,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7310
-msgid "Media representation"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7310
 msgid "Media representation"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_732
-msgid "Market research and public opinion polling"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7320
 msgid "Market research and public opinion polling"
 msgstr ""
@@ -4022,55 +2826,27 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_741
-msgid "Specialised design activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7410
 msgid "Specialised design activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_742
-msgid "Photographic activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7420
 msgid "Photographic activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_749
-msgid "Other professional, scientific and technical activities n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7490
-msgid "Other professional, scientific and technical activities n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_749
-msgid "Other professional, scientific and technical activities n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7490
 msgid "Other professional, scientific and technical activities n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_75
-msgid "Veterinary activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_750
-msgid "Veterinary activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7500
 msgid "Veterinary activities"
 msgstr ""
@@ -4092,10 +2868,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7710
-msgid "Rental and leasing of trucks"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7710
 msgid "Rental and leasing of trucks"
 msgstr ""
@@ -4127,40 +2899,16 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
-msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7730
 msgid "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_774
-msgid "Leasing of intellectual property and similar products, except copyrighted works"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7740
 msgid "Leasing of intellectual property and similar products, except copyrighted works"
 msgstr ""
@@ -4172,30 +2920,18 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_781
-msgid "Activities of employment placement agencies"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7810
 msgid "Activities of employment placement agencies"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_782
-msgid "Temporary employment agency activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7820
 msgid "Temporary employment agency activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_783
-msgid "Other human resources provision"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7830
 msgid "Other human resources provision"
 msgstr ""
@@ -4222,10 +2958,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_799
-msgid "Other reservation service and related activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_7990
 msgid "Other reservation service and related activities"
 msgstr ""
@@ -4237,30 +2969,18 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_801
-msgid "Private security activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8010
 msgid "Private security activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_802
-msgid "Security systems service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8020
 msgid "Security systems service activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_803
-msgid "Investigation activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8030
 msgid "Investigation activities"
 msgstr ""
@@ -4272,10 +2992,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_811
-msgid "Combined facilities support activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8110
 msgid "Combined facilities support activities"
 msgstr ""
@@ -4292,20 +3008,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8129
-msgid "Other cleaning activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8129
 msgid "Other cleaning activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_813
-msgid "Landscape service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8130
 msgid "Landscape service activities"
 msgstr ""
@@ -4332,20 +3040,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_822
-msgid "Activities of call centres"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8220
 msgid "Activities of call centres"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_823
-msgid "Organisation of conventions and trade shows"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8230
 msgid "Organisation of conventions and trade shows"
 msgstr ""
@@ -4417,25 +3117,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8423
-msgid "Fire service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8423
-msgid "Fire service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8423
 msgid "Fire service activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_843
-msgid "Compulsory social security activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8430
 msgid "Compulsory social security activities"
 msgstr ""
@@ -4452,20 +3140,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_851
-msgid "Primary education"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_8510
-msgid "Primary education "
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_851
 msgid "Primary education"
 msgstr ""
 
 #. module: l10n_eu_nace
+#: model:res.partner.nace,name:l10n_eu_nace.nace_8510
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8510
 msgid "Primary education "
 msgstr ""
@@ -4492,10 +3172,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8530
-msgid "Tertiary education"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8530
 msgid "Tertiary education"
 msgstr ""
@@ -4517,20 +3193,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8549
-msgid "Other education n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8549
 msgid "Other education n.e.c."
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_855
-msgid "Educational support activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8550
 msgid "Educational support activities"
 msgstr ""
@@ -4547,10 +3215,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_861
-msgid "Hospital activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8610
 msgid "Hospital activities"
 msgstr ""
@@ -4562,25 +3226,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8620
-msgid "Dental practice activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8620
-msgid "Dental practice activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8620
 msgid "Dental practice activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_869
-msgid "Other human health activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8690
 msgid "Other human health activities"
 msgstr ""
@@ -4592,40 +3244,24 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_871
-msgid "Residential nursing care activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8710
 msgid "Residential nursing care activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_872
-msgid "Residential care activities for mental retardation, mental health and substance abuse"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8720
 msgid "Residential care activities for mental retardation, mental health and substance abuse"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_873
-msgid "Residential care activities for the elderly and disabled"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8730
 msgid "Residential care activities for the elderly and disabled"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_879
-msgid "Other residential care activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8790
 msgid "Other residential care activities"
 msgstr ""
@@ -4637,10 +3273,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_881
-msgid "Social work activities without accommodation for the elderly and disabled"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8810
 msgid "Social work activities without accommodation for the elderly and disabled"
 msgstr ""
@@ -4652,10 +3284,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8890
-msgid "Other social work activities without accommodation n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_8890
 msgid "Other social work activities without accommodation n.e.c."
 msgstr ""
@@ -4667,40 +3295,20 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_90
-msgid "Creative, arts and entertainment activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_900
 msgid "Creative, arts and entertainment activities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9000
-msgid "Operation of arts facilities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9000
-msgid "Operation of arts facilities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9000
-msgid "Operation of arts facilities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9000
 msgid "Operation of arts facilities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_91
-msgid "Libraries, archives, museums and other cultural activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_910
 msgid "Libraries, archives, museums and other cultural activities"
 msgstr ""
@@ -4712,10 +3320,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9102
-msgid "Operation of historical sites and buildings and similar visitor attractions"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9102
 msgid "Operation of historical sites and buildings and similar visitor attractions"
 msgstr ""
@@ -4727,15 +3331,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_92
-msgid "Gambling and betting activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_920
-msgid "Gambling and betting activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9200
 msgid "Gambling and betting activities"
 msgstr ""
@@ -4752,17 +3348,13 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9311
+#: model:res.partner.nace,name:l10n_eu_nace.nace_9311
 msgid "Fitness facilities"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9312
 msgid "Activities of sports clubs"
-msgstr ""
-
-#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.nace_9311
-msgid "Fitness facilities"
 msgstr ""
 
 #. module: l10n_eu_nace
@@ -4812,10 +3404,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_942
-msgid "Activities of trade unions"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9420
 msgid "Activities of trade unions"
 msgstr ""
@@ -4887,20 +3475,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9529
-msgid "Repair of other personal and household goods"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9529
 msgid "Repair of other personal and household goods"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_96
-msgid "Other personal service activities"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_960
 msgid "Other personal service activities"
 msgstr ""
@@ -4922,10 +3502,6 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9609
-msgid "Other personal service activities n.e.c."
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9609
 msgid "Other personal service activities n.e.c."
 msgstr ""
@@ -4937,15 +3513,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_97
-msgid "Activities of households as employers of domestic personnel"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_970
-msgid "Activities of households as employers of domestic personnel"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9700
 msgid "Activities of households as employers of domestic personnel"
 msgstr ""
@@ -4957,20 +3525,12 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_981
-msgid "Undifferentiated goods-producing activities of private households for own use"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9810
 msgid "Undifferentiated goods-producing activities of private households for own use"
 msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_982
-msgid "Undifferentiated service-producing activities of private households for own use"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9820
 msgid "Undifferentiated service-producing activities of private households for own use"
 msgstr ""
@@ -4982,15 +3542,7 @@ msgstr ""
 
 #. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_99
-msgid "Activities of extraterritorial organisations and bodies"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_990
-msgid "Activities of extraterritorial organisations and bodies"
-msgstr ""
-
-#. module: l10n_eu_nace
 #: model:res.partner.nace,name:l10n_eu_nace.nace_9900
 msgid "Activities of extraterritorial organisations and bodies"
 msgstr ""

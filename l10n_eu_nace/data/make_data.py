@@ -43,14 +43,14 @@ LANGS = [
 LANGS = [
     "en",
     "de",
-    # "fr",
+    "fr",
 ]
 
 # All the generated record ids will be in this forms
 ID_TEMPLATE = "nace_%s"
 
 _logger.info("Generating the English CSV file...")
-src = csv.reader(open("NACE_REV2_en.csv", "r+"))
+src = csv.reader(open("../src_from_eu/NACE_REV2_en.csv", "r+"))
 dest = csv.writer(open("res.partner.nace.csv", "w"), quoting=csv.QUOTE_ALL)
 # Write the file header
 dest.writerow(["id", "parent_id:id", "code", "name"])
@@ -77,7 +77,7 @@ _logger.info("Done.\n")
 for lang in LANGS:
     filename = lang != "en" and ("%s.po" % lang) or "l10n_eu_nace.pot"
     _logger.info("Generating %s..." % filename)
-    src = csv.reader(open("NACE_REV2_%s.csv" % lang, "r+"))
+    src = csv.reader(open("../src_from_eu/NACE_REV2_%s.csv" % lang, "r+"))
     # Skip first line
     next(src)
     # Write file header
@@ -102,16 +102,34 @@ msgstr ""
 
 """
     )
+    data = dict()
+
     for row in src:
-        name = "%s" % ( row[4])
-        xml_id = ID_TEMPLATE % row[9]
+        xml_id = ID_TEMPLATE % row[9 if lang != "fr" else 8]
+        if english[xml_id] in data.keys():
+            data[english[xml_id]]["xml_id"].append(xml_id)
+        else:
+            data[english[xml_id]] = {
+                "name": "%s" % row[4],
+                "xml_id": [xml_id, ]
+            }
+
+    for key, model in data.items():
         dest.write(
-            """#. module: l10n_eu_nace
-#: model:res.partner.nace,name:l10n_eu_nace.%s
+            """#. module: l10n_eu_nace"""
+        )
+        translation = "%s" % model["name"]
+        src = key
+        for xml_id in model["xml_id"]:
+            dest.write("""
+#: model:res.partner.nace,name:l10n_eu_nace.%s""" % xml_id)
+
+        dest.write(
+            """
 msgid "%s"
 msgstr "%s"
 
 """
-            % (xml_id, english[xml_id], lang != "en" and name or "")
+            % (src, lang != "en" and translation or "")
         )
 _logger.info("Done.\n")

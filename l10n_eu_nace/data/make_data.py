@@ -50,7 +50,7 @@ LANGS = [
 ID_TEMPLATE = "nace_%s"
 
 _logger.info("Generating the English CSV file...")
-src = csv.reader(open("../src_from_eu/NACE_REV2_en.csv", "r+"))
+src = csv.reader(open("../static/src_from_eu/NACE_REV2_en.csv", "r+"))
 dest = csv.writer(open("res.partner.nace.csv", "w"), quoting=csv.QUOTE_ALL)
 # Write the file header
 dest.writerow(["id", "parent_id:id", "code", "name"])
@@ -61,8 +61,8 @@ dest.writerow([parent_ids[0], "", "", "NACE"])
 next(src)
 english = {}
 for row in src:
-    xml_id = ID_TEMPLATE % row[9]
     code = row[2]
+    xml_id = ID_TEMPLATE % code.replace(".","")
     name = row[4]
     # determine the parent
     level = int(row[1])
@@ -77,7 +77,7 @@ _logger.info("Done.\n")
 for lang in LANGS:
     filename = lang != "en" and ("%s.po" % lang) or "l10n_eu_nace.pot"
     _logger.info("Generating %s..." % filename)
-    src = csv.reader(open("../src_from_eu/NACE_REV2_%s.csv" % lang, "r+"))
+    src = csv.reader(open("../static/src_from_eu/NACE_REV2_%s.csv" % lang, "r+"))
     # Skip first line
     next(src)
     # Write file header
@@ -105,7 +105,7 @@ msgstr ""
     data = dict()
 
     for row in src:
-        xml_id = ID_TEMPLATE % row[9 if lang != "fr" else 8]
+        xml_id = ID_TEMPLATE % row[2].replace(".","")
         if english[xml_id] in data.keys():
             data[english[xml_id]]["xml_id"].append(xml_id)
         else:

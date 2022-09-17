@@ -4,12 +4,12 @@
 
 {
     'name': 'Base UNECE',
-    'version': '11.0.1.0.0',
+    'version': '11.0.1.0.1',
     'category': 'Tools',
     'license': 'AGPL-3',
     'summary': 'Base module for UNECE code lists',
     'author': 'Akretion,Odoo Community Association (OCA)',
-    'website': 'http://www.akretion.com',
+    "website": "https://github.com/OCA/community-data-files",
     'depends': ['base'],
     'data': [
         'views/unece_code_list.xml',

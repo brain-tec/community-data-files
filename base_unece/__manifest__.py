@@ -4,14 +4,14 @@
 
 {
     "name": "Base UNECE",
-    "version": "13.0.1.1.0",
+    "version": "13.0.1.1.1",
     "category": "Tools",
     "license": "AGPL-3",
     "development_status": "Production/Stable",
     "summary": "Base module for UNECE code lists",
     "author": "Akretion,Odoo Community Association (OCA)",
     "maintainers": ["astirpe"],
-    "website": "https://github.com/OCA/community-data-files/",
+    "website": "https://github.com/OCA/community-data-files",
     "depends": ["base"],
     "data": ["views/unece_code_list.xml", "security/ir.model.access.csv"],
     "installable": True,

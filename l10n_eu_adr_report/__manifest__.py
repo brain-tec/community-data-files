@@ -3,10 +3,10 @@
 {
     "name": "ADR Products Report",
     "summary": "Print Delivery report to ADR standart",
-    "version": "13.0.1.0.1",
+    "version": "13.0.1.0.2",
     "development_status": "Alpha",
     "category": "Product",
-    "website": "https://github.com/OCA/stock-logistic-reporting",
+    "website": "https://github.com/OCA/community-data-files",
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,

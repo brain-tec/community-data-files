@@ -4,14 +4,14 @@
 
 {
     "name": "Product UoM UNECE",
-    "version": "13.0.1.0.0",
+    "version": "13.0.1.0.1",
     "category": "Sales",
     "license": "AGPL-3",
     "development_status": "Production/Stable",
     "summary": "UNECE nomenclature for the units of measure",
     "author": "Akretion,Odoo Community Association (OCA)",
     "maintainers": ["astirpe"],
-    "website": "https://github.com/OCA/community-data-files/",
+    "website": "https://github.com/OCA/community-data-files",
     "depends": ["uom"],
     "data": ["data/unece.xml", "views/product_uom.xml"],
     "installable": True,

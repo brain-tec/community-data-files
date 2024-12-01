@@ -6,18 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2024-11-29 12:06+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3159
 msgid "1,1,1,2-TETRAFLUOROETHANE (REFRIGERANT GAS R 134a)"
-msgstr ""
+msgstr "1,1,1,2-TETRAFLUOROETHANE (GAS REFRIGERANTE R 134a)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2831
@@ -27,7 +29,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2035
 msgid "1,1,1-TRIFLUOROETHANE (REFRIGERANT GAS R 143a)"
-msgstr ""
+msgstr "1,1,1-TRIFLUOROETHANE (GAS REFRIGERANTE R 143a)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1702
@@ -47,12 +49,12 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1030
 msgid "1,1-DIFLUOROETHANE (REFRIGERANT GAS R 152a)"
-msgstr ""
+msgstr "1,1-DIFLUOROETHANE (GAS REFRIGERANTE R 152a)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1959
 msgid "1,1-DIFLUOROETHYLENE (REFRIGERANT GAS R 1132a)"
-msgstr ""
+msgstr "1,1-DIFLUOROETHYLENE (GAS REFRIGERANTE R 1132a)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2377
@@ -87,7 +89,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1958
 msgid "1,2-DICHLORO-1,1,2,2-TETRAFLUOROETHANE (REFRIGERANT GAS R 114)"
-msgstr ""
+msgstr "1,2-DICHLORO-1,1,2,2-TETRAFLUOROETHANE (GAS REFRIGERANTE R 114)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1150
@@ -162,17 +164,17 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2517
 msgid "1-CHLORO-1,1-DIFLUOROETHANE (REFRIGERANT GAS R 142b)"
-msgstr ""
+msgstr "1-CHLORO-1,1-DIFLUOROETHANE (GAS REFRIGERANTE R 142b)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1021
 msgid "1-CHLORO-1,2,2,2-TETRAFLUOROETHANE (REFRIGERANT GAS R 124)"
-msgstr ""
+msgstr "1-CHLORO-1,2,2,2-TETRAFLUOROETHANE (GAS REFRIGERANTE R 124)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1983
 msgid "1-CHLORO-2,2,2-TRIFLUOROETHANE (REFRIGERANT GAS R 133a)"
-msgstr ""
+msgstr "1-CHLORO-2,2,2-TRIFLUOROETHANE (GAS REFRIGERANTE R 133a)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1278
@@ -259,7 +261,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1709
 msgid "2,4-TOLUYLENEDIAMINE, SOLID"
-msgstr ""
+msgstr "2,4-TOLUYLENEDIAMINE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3055
@@ -445,7 +447,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3428
 msgid "3-CHLORO-4-METHYLPHENYL ISOCYANATE, SOLID"
-msgstr ""
+msgstr "3-CHLORO-4-METHYLPHENYL ISOCYANATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2849
@@ -490,7 +492,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1579
 msgid "4-CHLORO-o-TOLUIDINE HYDROCHLORIDE, SOLID"
-msgstr ""
+msgstr "4-CHLORO-o-TOLUIDINE HYDROCHLORIDE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2293
@@ -657,7 +659,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2074
 msgid "ACRYLAMIDE, SOLID"
-msgstr ""
+msgstr "ACRYLAMIDE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2218
@@ -932,7 +934,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3401
 msgid "ALKALI METAL AMALGAM, SOLID"
-msgstr ""
+msgstr "ALKALI METAL AMALGAM, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1390
@@ -954,7 +956,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3402
 msgid "ALKALINE  EARTH METAL AMALGAM, SOLID"
-msgstr ""
+msgstr "ALKALINE  EARTH METAL AMALGAM, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3205_S4_4dot2_183/274_P002/IBC08/LP02/R001_3
@@ -984,7 +986,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1544_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1544_5kg
 msgid "ALKALOIDS, SOLID, N.O.S. or ALKALOID SALTS, SOLID, N.O.S."
-msgstr ""
+msgstr "ALKALOIDS, SOLIDO, N.O.S. or ALKALOID SALTS, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3145
@@ -998,7 +1000,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2430_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2430_5kg
 msgid "ALKYLPHENOLS, SOLID, N.O.S. (including C2-C12 homologues)"
-msgstr ""
+msgstr "ALKYLPHENOLS, SOLIDO, N.O.S. (including C2-C12 homologues)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2584
@@ -1020,6 +1022,8 @@ msgid ""
 "ALKYLSULPHONIC ACIDS, SOLID or ARYLSULPHONIC ACIDS, SOLID with more than 5% "
 "free sulphuric acid"
 msgstr ""
+"ALKYLSULPHONIC ACIDS, SOLIDOor ARYLSULPHONIC ACIDS, SOLIDOwith more than 5% "
+"free sulphuric acid"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2585
@@ -1027,6 +1031,8 @@ msgid ""
 "ALKYLSULPHONIC ACIDS, SOLID or ARYLSULPHONIC ACIDS, SOLID with not more than"
 " 5% free sulphuric acid"
 msgstr ""
+"ALKYLSULPHONIC ACIDS, SOLIDO or ARYLSULPHONIC ACIDS, SOLIDO with not more "
+"than 5% free sulphuric acid"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2571
@@ -1213,6 +1219,7 @@ msgstr ""
 msgid ""
 "AMINES, SOLID, CORROSIVE, N.O.S. or POLYAMINES, SOLID, CORROSIVE, N.O.S."
 msgstr ""
+"AMINES, SOLIDO, CORROSIVE, N.O.S. or POLYAMINES, SOLIDO, CORROSIVE, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2512
@@ -1269,7 +1276,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1843
 msgid "AMMONIUM DINITRO-o-CRESOLATE, SOLID"
-msgstr ""
+msgstr "AMMONIUM DINITRO-o-CRESOLATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2505
@@ -1295,7 +1302,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1727
 msgid "AMMONIUM HYDROGENDIFLUORIDE, SOLID"
-msgstr ""
+msgstr "AMMONIUM HYDROGENDIFLUORIDE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2859
@@ -1335,6 +1342,8 @@ msgid ""
 "AMMONIUM NITRATE EMULSION or SUSPENSION or GEL, intermediate for blasting "
 "explosives, solid"
 msgstr ""
+"AMMONIUM NITRATE EMULSION or SUSPENSION or GEL, intermediate for blasting "
+"explosives, solido"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1942
@@ -1586,7 +1595,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1549
 msgid "ANTIMONY COMPOUND, INORGANIC, SOLID, N.O.S."
-msgstr ""
+msgstr "ANTIMONY COMPOUND, INORGANIC, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1550
@@ -1647,7 +1656,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1554
 msgid "ARSENIC ACID, SOLID"
-msgstr ""
+msgstr "ARSENIC ACID, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1555
@@ -1671,6 +1680,8 @@ msgid ""
 "ARSENIC COMPOUND, SOLID, N.O.S., inorganic, including: Arsenates, n.o.s.; "
 "Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
 msgstr ""
+"ARSENIC COMPOUND, SOLIDO, N.O.S., inorganic, including: Arsenates, n.o.s.; "
+"Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1559
@@ -1720,7 +1731,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2759_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2759_5kg
 msgid "ARSENICAL PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "ARSENICAL PESTICIDE, SOLIDO, TOXIC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2188
@@ -1763,7 +1774,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3541
 msgid "ARTICLES CONTAINING FLAMMABLE SOLID, N.O.S."
-msgstr ""
+msgstr "ARTICLES CONTAINING FLAMMABLE SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3548
@@ -1885,7 +1896,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3335
 msgid "Aviation regulated solid, n.o.s."
-msgstr ""
+msgstr "Aviation regulated solido, n.o.s."
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__b/d
@@ -1936,7 +1947,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1445
 msgid "BARIUM CHLORATE, SOLID"
-msgstr ""
+msgstr "BARIUM CHLORATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1564_500g
@@ -1973,7 +1984,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1447
 msgid "BARIUM PERCHLORATE, SOLID"
-msgstr ""
+msgstr "BARIUM PERCHLORATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1448
@@ -1993,7 +2004,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3028
 msgid "BATTERIES, DRY, CONTAINING POTASSIUM HYDROXIDE SOLID, electric storage"
-msgstr ""
+msgstr "BATTERIES, DRY, CONTAINING POTASSIUM HYDROXIDE SOLIDO, electric storage"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2794
@@ -2156,7 +2167,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2781_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2781_5kg
 msgid "BIPYRIDILIUM PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "BIPYRIDILIUM PESTICIDE, SOLIDO, TOXIC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2837_1L
@@ -2248,7 +2259,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3419
 msgid "BORON TRIFLUORIDE ACETIC ACID COMPLEX, SOLID"
-msgstr ""
+msgstr "BORON TRIFLUORIDE ACETIC ACID COMPLEX, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2604
@@ -2273,7 +2284,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3420
 msgid "BORON TRIFLUORIDE PROPIONIC ACID COMPLEX, SOLID"
-msgstr ""
+msgstr "BORON TRIFLUORIDE PROPIONIC ACID COMPLEX, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3519
@@ -2320,7 +2331,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3425
 msgid "BROMOACETIC ACID, SOLID"
-msgstr ""
+msgstr "BROMOACETIC ACID, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1569
@@ -2345,7 +2356,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3449
 msgid "BROMOBENZYL CYANIDES, SOLID"
-msgstr ""
+msgstr "BROMOBENZYL CYANIDES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1887
@@ -2376,7 +2387,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1009
 msgid "BROMOTRIFLUORO-METHANE (REFRIGERANT GAS R 13B1)"
-msgstr ""
+msgstr "BROMOTRIFLUORO-METHANE (GAS REFRIGERANTE R 13B1)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1570
@@ -2570,7 +2581,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1574
 msgid "CALCIUM ARSENATE AND CALCIUM ARSENITE MIXTURE, SOLID"
-msgstr ""
+msgstr "CALCIUM ARSENATE AND CALCIUM ARSENITE MIXTURE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1402
@@ -2766,7 +2777,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2757_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2757_5kg
 msgid "CARBAMATE PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "CARBAMATE PESTICIDE, SOLIDO, TOXIC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1013
@@ -3061,7 +3072,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1459_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1459_5kg
 msgid "CHLORATE AND MAGNESIUM CHLORIDE MIXTURE, SOLID"
-msgstr ""
+msgstr "CHLORATE AND MAGNESIUM CHLORIDE MIXTURE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3210_1L
@@ -3123,7 +3134,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1751
 msgid "CHLOROACETIC ACID, SOLID"
-msgstr ""
+msgstr "CHLOROACETIC ACID, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3416
@@ -3143,7 +3154,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1697
 msgid "CHLOROACETOPHENONE, SOLID"
-msgstr ""
+msgstr "CHLOROACETOPHENONE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1752
@@ -3158,7 +3169,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2018
 msgid "CHLOROANILINES, SOLID"
-msgstr ""
+msgstr "CHLOROANILINES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2233
@@ -3183,7 +3194,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3427
 msgid "CHLOROBENZYL CHLORIDES, SOLID"
-msgstr ""
+msgstr "CHLOROBENZYL CHLORIDES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1127
@@ -3199,12 +3210,12 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3437
 msgid "CHLOROCRESOLS, SOLID"
-msgstr ""
+msgstr "CHLOROCRESOLS, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1018
 msgid "CHLORODIFLUORO-METHANE (REFRIGERANT GAS R 22)"
-msgstr ""
+msgstr "CHLORODIFLUORO-METHANE (GAS REFRIGERANTE R 22)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1973
@@ -3213,11 +3224,14 @@ msgid ""
 "boiling point, with approximately 49% chlorodifluoromethane (REFRIGERANT GAS"
 " R 502)"
 msgstr ""
+"CHLORODIFLUORO-METHANE AND CHLOROPENTAFLUORO-ETHANE MIXTURE with fixed "
+"boiling point, with approximately 49% chlorodifluoromethane (GAS "
+"REFRIGERANTE R 502)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1974
 msgid "CHLORODIFLUOROBROMO-METHANE (REFRIGERANT GAS R 12B1)"
-msgstr ""
+msgstr "CHLORODIFLUOROBROMO-METHANE (GAS REFRIGERANTE R 12B1)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1577
@@ -3227,7 +3241,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3441
 msgid "CHLORODINITROBENZENES, SOLID"
-msgstr ""
+msgstr "CHLORODINITROBENZENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1888
@@ -3267,7 +3281,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1578
 msgid "CHLORONITROBENZENES, SOLID"
-msgstr ""
+msgstr "CHLORONITROBENZENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2433
@@ -3277,12 +3291,12 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3457
 msgid "CHLORONITROTOLUENES, SOLID"
-msgstr ""
+msgstr "CHLORONITROTOLUENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1020
 msgid "CHLOROPENTAFLUORO-ETHANE (REFRIGERANT GAS R 115)"
-msgstr ""
+msgstr "CHLOROPENTAFLUORO-ETHANE (GAS REFRIGERANTE R 115)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2904
@@ -3292,7 +3306,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2905
 msgid "CHLOROPHENOLATES, SOLID or PHENOLATES, SOLID"
-msgstr ""
+msgstr "CHLOROPHENOLATES, SOLIDOor PHENOLATES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2021
@@ -3302,7 +3316,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2020
 msgid "CHLOROPHENOLS, SOLID"
-msgstr ""
+msgstr "CHLOROPHENOLS, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1753
@@ -3334,7 +3348,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2507
 msgid "CHLOROPLATINIC ACID, SOLID"
-msgstr ""
+msgstr "CHLOROPLATINIC ACID, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1991
@@ -3389,12 +3403,12 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2239
 msgid "CHLOROTOLUIDINES, SOLID"
-msgstr ""
+msgstr "CHLOROTOLUIDINES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1022
 msgid "CHLOROTRIFLUORO-METHANE (REFRIGERANT GAS R 13)"
-msgstr ""
+msgstr "CHLOROTRIFLUORO-METHANE (GAS REFRIGERANTE R 13)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2599
@@ -3402,6 +3416,8 @@ msgid ""
 "CHLOROTRIFLUORO-METHANE AND TRIFLUOROMETHANE AZEOTROPIC MIXTURE with "
 "approximately 60% chlorotrifluoromethane (REFRIGERANT GAS R 503)"
 msgstr ""
+"CHLOROTRIFLUORO-METHANE AND TRIFLUOROMETHANE AZEOTROPIC MIXTURE with "
+"approximately 60% chlorotrifluoromethane (GAS REFRIGERANTE R 503)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1755_1L
@@ -3418,7 +3434,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1756
 msgid "CHROMIC FLUORIDE, SOLID"
-msgstr ""
+msgstr "CHROMIC FLUORIDE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2720
@@ -3618,7 +3634,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2775_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2775_5kg
 msgid "COPPER BASED PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "COPPER BASED PESTICIDE, SOLIDO, TOXIC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2721
@@ -3733,66 +3749,66 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3260_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3260_5kg
 msgid "CORROSIVE SOLID, ACIDIC, INORGANIC, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, ACIDIC, INORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3261
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3261_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3261_5kg
 msgid "CORROSIVE SOLID, ACIDIC, ORGANIC, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, ACIDIC, ORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3262
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3262_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3262_5kg
 msgid "CORROSIVE SOLID, BASIC, INORGANIC, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, BASIC, INORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3263
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3263_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3263_5kg
 msgid "CORROSIVE SOLID, BASIC, ORGANIC, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, BASIC, ORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2921
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2921_1kg
 msgid "CORROSIVE SOLID, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, FLAMMABLE, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1759
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1759_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1759_5kg
 msgid "CORROSIVE SOLID, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3084
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3084_1kg
 msgid "CORROSIVE SOLID, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, OXIDIZING, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3095
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3095_1kg
 msgid "CORROSIVE SOLID, SELF-HEATING, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, SELF-HEATING, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2923
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2923_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2923_5kg
 msgid "CORROSIVE SOLID, TOXIC, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, TOXIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3096
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3096_1kg
 msgid "CORROSIVE SOLID, WATER-REACTIVE, N.O.S."
-msgstr ""
+msgstr "CORROSIVE SOLIDO, WATER-REACTIVE, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1364
@@ -3833,7 +3849,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3027_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3027_5kg
 msgid "COUMARIN DERIVATIVE PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "COUMARIN DERIVATIVE PESTICIDE, SOLIDO, TOXIC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2076
@@ -3843,7 +3859,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3455
 msgid "CRESOLS, SOLID"
-msgstr ""
+msgstr "CRESOLS, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2022
@@ -3863,7 +3879,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2823
 msgid "CROTONIC ACID, SOLID"
-msgstr ""
+msgstr "CROTONIC ACID, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1144
@@ -3893,7 +3909,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1588_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1588_5kg
 msgid "CYANIDES, INORGANIC, SOLID, N.O.S."
-msgstr ""
+msgstr "CYANIDES, INORGANIC, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1026
@@ -4066,7 +4082,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1845
 msgid "Carbon dioxide, solid (Dry ice)"
-msgstr ""
+msgstr "Carbon dioxide, solido (Dry ice)"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__class_id
@@ -4173,7 +4189,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3380
 msgid "DESENSITIZED EXPLOSIVE, SOLID, N.O.S."
-msgstr ""
+msgstr "DESENSITIZED EXPLOSIVE, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0360
@@ -4308,12 +4324,12 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3442
 msgid "DICHLOROANILINES, SOLID"
-msgstr ""
+msgstr "DICHLOROANILINES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1028
 msgid "DICHLORODIFLUORO-METHANE (REFRIGERANT GAS R 12)"
-msgstr ""
+msgstr "DICHLORODIFLUORO-METHANE (GAS REFRIGERANTE R 12)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2602
@@ -4321,6 +4337,8 @@ msgid ""
 "DICHLORODIFLUORO-METHANE AND 1,1-DIFLUOROETHANE AZEOTROPIC MIXTURE with "
 "approximately 74% dichlorodifluoromethane (REFRIGERANT GAS R 500)"
 msgstr ""
+"DICHLORODIFLUORO-METHANE AND 1,1-DIFLUOROETHANE AZEOTROPIC MIXTURE with "
+"approximately 74% dichlorodifluoromethane (GAS REFRIGERANTE R 500)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2249
@@ -4330,7 +4348,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1029
 msgid "DICHLOROFLUORO-METHANE (REFRIGERANT GAS R 21)"
-msgstr ""
+msgstr "DICHLOROFLUORO-METHANE (GAS REFRIGERANTE R 21)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2465
@@ -4465,7 +4483,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3252
 msgid "DIFLUOROMETHANE (REFRIGERANT GAS R 32)"
-msgstr ""
+msgstr "DIFLUOROMETHANE (GAS REFRIGERANTE R 32)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1768
@@ -4607,7 +4625,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3443
 msgid "DINITROBENZENES, SOLID"
-msgstr ""
+msgstr "DINITROBENZENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1067
@@ -4675,7 +4693,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3454
 msgid "DINITROTOLUENES, SOLID"
-msgstr ""
+msgstr "DINITROTOLUENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1165
@@ -4705,7 +4723,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3450
 msgid "DIPHENYLCHLORO-ARSINE, SOLID"
-msgstr ""
+msgstr "DIPHENYLCHLORO-ARSINE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1769
@@ -4756,7 +4774,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601_5kg
 msgid "DISINFECTANT, SOLID, TOXIC, N.O.S."
-msgstr ""
+msgstr "DISINFECTANT, SOLIDO, TOXIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3253
@@ -4796,13 +4814,14 @@ msgstr ""
 msgid ""
 "DYE, SOLID, CORROSIVE, N.O.S. or DYE INTERMEDIATE, SOLID, CORROSIVE, N.O.S."
 msgstr ""
+"DYE, SOLIDO, CORROSIVE, N.O.S. or DYE INTERMEDIATE, SOLIDO, CORROSIVE, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3143
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3143_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3143_5kg
 msgid "DYE, SOLID, TOXIC, N.O.S. or DYE INTERMEDIATE, SOLID, TOXIC, N.O.S."
-msgstr ""
+msgstr "DYE, SOLIDO, TOXIC, N.O.S. or DYE INTERMEDIATE, SOLIDO, TOXIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_goods_action
@@ -4904,7 +4923,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3258
 msgid "ELEVATED TEMPERATURE SOLID, N.O.S., at or above 240 °C"
-msgstr ""
+msgstr "ELEVATED TEMPERATURE SOLIDO, N.O.S., at or above 240 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3530
@@ -4935,7 +4954,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3077
 msgid "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S."
-msgstr ""
+msgstr "ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2558
@@ -5064,7 +5083,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2453
 msgid "ETHYL FLUORIDE (REFRIGERANT GAS R 161)"
-msgstr ""
+msgstr "ETHYL FLUORIDE (GAS REFRIGERANTE R 161)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1190
@@ -5512,7 +5531,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2623
 msgid "FIRELIGHTERS, SOLID with flammable liquid"
-msgstr ""
+msgstr "FIRELIGHTERS, SOLIDO with flammable liquid"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0333
@@ -5583,48 +5602,48 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3180_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3180_5kg
 msgid "FLAMMABLE SOLID, CORROSIVE, INORGANIC, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, CORROSIVE, INORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2925_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2925_5kg
 msgid "FLAMMABLE SOLID, CORROSIVE, ORGANIC, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, CORROSIVE, ORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3178_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3178_5kg
 msgid "FLAMMABLE SOLID, INORGANIC, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, INORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3176_F2_4dot1_274_2
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3176_F2_4dot1_274_3
 msgid "FLAMMABLE SOLID, ORGANIC, MOLTEN, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, ORGANIC, MOLTEN, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1325_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1325_5kg
 msgid "FLAMMABLE SOLID, ORGANIC, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, ORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3097
 msgid "FLAMMABLE SOLID, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, OXIDIZING, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3179_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3179_5kg
 msgid "FLAMMABLE SOLID, TOXIC, INORGANIC, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, TOXIC, INORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2926_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2926_5kg
 msgid "FLAMMABLE SOLID, TOXIC, ORGANIC, N.O.S."
-msgstr ""
+msgstr "FLAMMABLE SOLIDO, TOXIC, ORGANIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0093
@@ -5885,7 +5904,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_4_1
 msgid "Flammable solids"
-msgstr ""
+msgstr "Flammable solidi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_4_1
@@ -5893,6 +5912,8 @@ msgid ""
 "Flammable solids, self-reactive substances, and solid desensitized "
 "explosives"
 msgstr ""
+"Flammable solidi, self-reactive substances, and solido desensitized "
+"explosives"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2803
@@ -6050,7 +6071,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3296
 msgid "HEPTAFLUOROPROPANE (REFRIGERANT GAS R 227)"
-msgstr ""
+msgstr "HEPTAFLUOROPROPANE (GAS REFRIGERANTE R 227)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1206
@@ -6120,17 +6141,17 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3436
 msgid "HEXAFLUOROACETONE HYDRATE, SOLID"
-msgstr ""
+msgstr "HEXAFLUOROACETONE HYDRATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2193
 msgid "HEXAFLUOROETHANE (REFRIGERANT GAS R 116)"
-msgstr ""
+msgstr "HEXAFLUOROETHANE (GAS REFRIGERANTE R 116)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1858
 msgid "HEXAFLUOROPROPYLENE (REFRIGERANT GAS R 1216)"
-msgstr ""
+msgstr "HEXAFLUOROPROPYLENE (GAS REFRIGERANTE R 1216)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1207
@@ -6151,7 +6172,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2280
 msgid "HEXAMETHYLENE-DIAMINE, SOLID"
-msgstr ""
+msgstr "HEXAMETHYLENE-DIAMINE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1328
@@ -6425,7 +6446,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1740_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1740_5kg
 msgid "HYDROGENDIFLUORIDES, SOLID, N.O.S."
-msgstr ""
+msgstr "HYDROGENDIFLUORIDES, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2865
@@ -6531,7 +6552,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1792
 msgid "IODINE MONOCHLORIDE, SOLID"
-msgstr ""
+msgstr "IODINE MONOCHLORIDE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2495
@@ -6899,7 +6920,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1470
 msgid "LEAD PERCHLORATE, SOLID"
-msgstr ""
+msgstr "LEAD PERCHLORATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2989_1kg
@@ -7032,7 +7053,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2805
 msgid "LITHIUM HYDRIDE, FUSED SOLID"
-msgstr ""
+msgstr "LITHIUM HYDRIDE, FUSED SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2680
@@ -7307,7 +7328,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3249_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3249_5kg
 msgid "MEDICINE, SOLID, TOXIC, N.O.S."
-msgstr ""
+msgstr "MEDICINE, SOLIDO, TOXIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3336_F1_3_274_5L_P001/IBC03/LP01/R001_3
@@ -7415,7 +7436,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2777_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2777_5kg
 msgid "MERCURY BASED PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "MERCURY BASED PESTICIDE, SOLIDO, TOXIC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1631
@@ -7439,7 +7460,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2025_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2025_5kg
 msgid "MERCURY COMPOUND, SOLID, N.O.S."
-msgstr ""
+msgstr "MERCURY COMPOUND, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3506
@@ -7518,7 +7539,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466_5kg
 msgid "METAL CARBONYLS,  SOLID, N.O.S."
-msgstr ""
+msgstr "METAL CARBONYLS,  SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3281
@@ -7674,7 +7695,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1063
 msgid "METHYL CHLORIDE (REFRIGERANT GAS R 40)"
-msgstr ""
+msgstr "METHYL CHLORIDE (GAS REFRIGERANTE R 40)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1912
@@ -7704,7 +7725,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2454
 msgid "METHYL FLUORIDE (REFRIGERANT GAS R 41)"
-msgstr ""
+msgstr "METHYL FLUORIDE (GAS REFRIGERANTE R 41)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1243
@@ -7994,7 +8015,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3460
 msgid "N-ETHYLBENZYL-TOLUIDINES, SOLID"
-msgstr ""
+msgstr "N-ETHYLBENZYL-TOLUIDINES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2754
@@ -8081,6 +8102,7 @@ msgstr ""
 msgid ""
 "NICOTINE COMPOUND, SOLID, N.O.S. or NICOTINE PREPARATION, SOLID, N.O.S."
 msgstr ""
+"NICOTINE COMPOUND, SOLIDO, N.O.S. or NICOTINE PREPARATION, SOLIDO, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1656_100ml
@@ -8091,7 +8113,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3444
 msgid "NICOTINE HYDROCHLORIDE, SOLID"
-msgstr ""
+msgstr "NICOTINE HYDROCHLORIDE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1657
@@ -8101,7 +8123,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3445
 msgid "NICOTINE SULPHATE, SOLID"
-msgstr ""
+msgstr "NICOTINE SULPHATE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1658_100ml
@@ -8198,7 +8220,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3439_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3439_5kg
 msgid "NITRILES, SOLID, TOXIC, N.O.S."
-msgstr ""
+msgstr "NITRILES, SOLIDO, TOXIC, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3275
@@ -8235,7 +8257,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3458
 msgid "NITROANISOLES, SOLID"
-msgstr ""
+msgstr "NITROANISOLES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1662
@@ -8255,7 +8277,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3431
 msgid "NITROBENZO-TRIFLUORIDES, SOLID"
-msgstr ""
+msgstr "NITROBENZO-TRIFLUORIDES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2732
@@ -8265,7 +8287,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3459
 msgid "NITROBROMOBENZENES, SOLID"
-msgstr ""
+msgstr "NITROBROMOBENZENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3270
@@ -8350,7 +8372,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2446
 msgid "NITROCRESOLS, SOLID"
-msgstr ""
+msgstr "NITROCRESOLS, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2842
@@ -8397,6 +8419,8 @@ msgid ""
 "NITROGLYCERIN MIXTURE, DESENSITIZED, SOLID, N.O.S. with more than 2% but not"
 " more than 10% nitroglycerin, by mass"
 msgstr ""
+"NITROGLYCERIN MIXTURE, DESENSITIZED, SOLIDO, N.O.S. with more than 2% but "
+"not more than 10% nitroglycerin, by mass"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0144
@@ -8483,7 +8507,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3456
 msgid "NITROSYLSULPHURIC ACID, SOLID"
-msgstr ""
+msgstr "NITROSYLSULPHURIC ACID, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1664
@@ -8493,7 +8517,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3446
 msgid "NITROTOLUENES, SOLID"
-msgstr ""
+msgstr "NITROTOLUENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2660
@@ -8523,7 +8547,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3447
 msgid "NITROXYLENES, SOLID"
-msgstr ""
+msgstr "NITROXYLENES, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1920
@@ -8574,17 +8598,17 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2422
 msgid "OCTAFLUOROBUT-2-ENE (REFRIGERANT GAS R 1318)"
-msgstr ""
+msgstr "OCTAFLUOROBUT-2-ENE (GAS REFRIGERANTE R 1318)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1976
 msgid "OCTAFLUOROCYCLO-BUTANE (REFRIGERANT GAS RC 318)"
-msgstr ""
+msgstr "OCTAFLUOROCYCLO-BUTANE (GAS REFRIGERANTE RC 318)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2424
 msgid "OCTAFLUOROPROPANE (REFRIGERANT GAS R 218)"
-msgstr ""
+msgstr "OCTAFLUOROPROPANE (GAS REFRIGERANTE R 218)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1262
@@ -8629,7 +8653,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3102
 msgid "ORGANIC PEROXIDE TYPE B, SOLID"
-msgstr ""
+msgstr "ORGANIC PEROXIDE TYPE B, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3112
@@ -9157,7 +9181,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3220
 msgid "PENTAFLUOROETHANE (REFRIGERANT GAS R 125)"
-msgstr ""
+msgstr "PENTAFLUOROETHANE (GAS REFRIGERANTE R 125)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2286
@@ -10387,6 +10411,9 @@ msgid ""
 "1,1,1,2-tetrafluoroethane zeotropic mixture with approximately 44% "
 "pentafluoroethane and 52% 1,1,1-trifluoroethane)"
 msgstr ""
+"GAS REFRIGERANTE R 404A (Pentafluoroethane, 1,1,1-trifluoroethane, and "
+"1,1,1,2-tetrafluoroethane zeotropic mixture with approximately 44% "
+"pentafluoroethane and 52% 1,1,1-trifluoroethane)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3338
@@ -10395,6 +10422,9 @@ msgid ""
 "1,1,1,2-tetrafluoroethane zeotropic mixture with approximately 20% "
 "difluoromethane and 40% pentafluoroethane)"
 msgstr ""
+"GAS REFRIGERANTE R 407A (Difluoromethane, pentafluoroethane, and 1,1,1,2-"
+"tetrafluoroethane zeotropic mixture with approximately 20% difluoromethane "
+"and 40% pentafluoroethane)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3339
@@ -10403,6 +10433,9 @@ msgid ""
 "1,1,1,2-tetrafluoroethane zeotropic mixture with approximately 10% "
 "difluoromethane and 70% pentafluoroethane)"
 msgstr ""
+"GAS REFRIGERANTE R 407B (Difluoromethane, pentafluoroethane, and 1,1,1,2-"
+"tetrafluoroethane zeotropic mixture with approximately 10% difluoromethane "
+"and 70% pentafluoroethane)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3340
@@ -10411,11 +10444,14 @@ msgid ""
 "1,1,1,2-tetrafluoroethane zeotropic mixture with approximately "
 "23%difluoromethane and 25% pentafluoroethane)"
 msgstr ""
+"GAS REFRIGERANTE R 407C (Difluoromethane, pentafluoroethane, and 1,1,1,2-"
+"tetrafluoroethane zeotropic mixture with approximately 23%difluoromethane "
+"and 25% pentafluoroethane)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1078
 msgid "REFRIGERANT GAS, N.O.S., such as mixture F1, mixture F2 or mixture F3"
-msgstr ""
+msgstr "GAS REFRIGERANTE, N.O.S., such as mixture F1, mixture F2 or mixture F3"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3358
@@ -11610,7 +11646,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1982
 msgid "TETRAFLUOROMETHANE (REFRIGERANT GAS R 14)"
-msgstr ""
+msgstr "TETRAFLUOROMETHANE (GAS REFRIGERANTE R 14)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2056
@@ -12201,12 +12237,12 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1082
 msgid "TRIFLUOROCHLORO-ETHYLENE, STABILIZED (REFRIGERANT GAS R 1113)"
-msgstr ""
+msgstr "TRIFLUOROCHLORO-ETHYLENE, STABILIZED (GAS REFRIGERANTE R 1113)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1984
 msgid "TRIFLUOROMETHANE (REFRIGERANT GAS R 23)"
-msgstr ""
+msgstr "TRIFLUOROMETHANE (GAS REFRIGERANTE R 23)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3136

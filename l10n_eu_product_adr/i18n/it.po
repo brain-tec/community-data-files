@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-09 17:06+0000\n"
+"PO-Revision-Date: 2024-12-10 18:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -752,112 +752,112 @@ msgstr "GAS ADSORBITO, INFIAMMABILE, N.A.S."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3511
 msgid "ADSORBED GAS, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3513
 msgid "ADSORBED GAS, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, COMBURENTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3516
 msgid "ADSORBED GAS, TOXIC, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, TOSSICO, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3517
 msgid "ADSORBED GAS, TOXIC, FLAMMABLE, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, TOSSICO, INFIAMMABILE, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3514
 msgid "ADSORBED GAS, TOXIC, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, TOSSICO, INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3512
 msgid "ADSORBED GAS, TOXIC, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3518
 msgid "ADSORBED GAS, TOXIC, OXIDIZING, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, TOSSICO, COMBURENTE, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3515
 msgid "ADSORBED GAS, TOXIC, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "GAS ADSORBITO, TOSSICO, COMBURENTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5A_2dot2_190/327/344/625_1L_P207/LP200_3
 msgid "AEROSOLS, asphyxiant"
-msgstr ""
+msgstr "AEROSOL, asfissianti"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5C_2dot2/8_190/327/344/625_1L_P207/LP200_1
 msgid "AEROSOLS, corrosive"
-msgstr ""
+msgstr "AEROSOL, corrosivi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5CO_2dot2/5dot1/8_190/327/344/625_1L_P207/LP200_1
 msgid "AEROSOLS, corrosive, oxidizing"
-msgstr ""
+msgstr "AEROSOL, corrosivi, ossidanti"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5F_2dot1_190/327/344/625_1L_P207/LP200_2
 msgid "AEROSOLS, flammable"
-msgstr ""
+msgstr "AEROSOL, infiammabili"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5FC_2dot1/8_190/327/344/625_1L_P207/LP200_1
 msgid "AEROSOLS, flammable, corrosive"
-msgstr ""
+msgstr "AEROSOL, infiammabili, corrosivi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5O_2dot2/5dot1_190/327/344/625_1L_P207/LP200_3
 msgid "AEROSOLS, oxidizing"
-msgstr ""
+msgstr "AEROSOL, ossidanti"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5T_2dot2/6dot1_190/327/344/625_120ml_P207/LP200_1
 msgid "AEROSOLS, toxic"
-msgstr ""
+msgstr "AEROSOL, tossici"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5TC_2dot2/6dot1/8_190/327/344/625_120ml_P207/LP200_1
 msgid "AEROSOLS, toxic, corrosive"
-msgstr ""
+msgstr "AEROSOL, tossici, corrosivi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5TF_2dot1/6dot1_190/327/344/625_120ml_P207/LP200_1
 msgid "AEROSOLS, toxic, flammable"
-msgstr ""
+msgstr "AEROSOL, tossici, infiammabili"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5TFC_2dot1/6dot1/8_190/327/344/625_120ml_P207/LP200_1
 msgid "AEROSOLS, toxic, flammable, corrosive"
-msgstr ""
+msgstr "AEROSOL, tossici, infiammabili, corrosivi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5TO_2dot2/5dot1/6dot1_190/327/344/625_120ml_P207/LP200_1
 msgid "AEROSOLS, toxic, oxidizing"
-msgstr ""
+msgstr "AEROSOL, tossici, ossidanti"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1950_5TOC_2dot2/5dot1/6dot1/8_190/327/344/625_120ml_P207/LP200_1
 msgid "AEROSOLS, toxic, oxidizing, corrosive"
-msgstr ""
+msgstr "AEROSOL, tossici, ossidanti, corrosivi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1002
 msgid "AIR, COMPRESSED"
-msgstr ""
+msgstr "ARIA COMPRESSA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1003
 msgid "AIR, REFRIGERATED LIQUID"
-msgstr ""
+msgstr "ARIA, LIQUIDO REFRIGERATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3165
@@ -865,11 +865,13 @@ msgid ""
 "AIRCRAFT HYDRAULIC POWER UNIT FUEL TANK (containing a mixture of anhydrous "
 "hydrazine and methylhydrazine) (M86 fuel)"
 msgstr ""
+"SERBATOIO DEL COMBUSTIBILE DELL'UNITÀ DI POTENZA IDRAULICA DELL'AEROMOBILE ("
+"contenente una miscela di idrazina anidra e metilidrazina) (carburante M86)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3274
 msgid "ALCOHOLATES SOLUTION, N.O.S., in alcohol"
-msgstr ""
+msgstr "ALCOLATI SOLUZIONE, N.A.S., in alcool"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3065_F1_3_144/145/247_5L_P001/IBC03/R001_3
@@ -877,77 +879,78 @@ msgid ""
 "ALCOHOLIC BEVERAGES, with more than 24% but not more than 70% alcohol by "
 "volume"
 msgstr ""
+"BEVANDE ALCOLICHE, con più del 24% ma non più del 70% di alcol in volume"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3065_F1_3_5L_P001/IBC02/R001_2
 msgid "ALCOHOLIC BEVERAGES, with more than 70% alcohol by volume"
-msgstr ""
+msgstr "BEVANDE ALCOLICHE, con più del 70% di alcol in volume"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986_5L
 msgid "ALCOHOLS, FLAMMABLE, TOXIC, N.O.S."
-msgstr ""
+msgstr "ALCOLI, INFIAMMABILE, TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1987_F1_3_274/601_5L_P001/IBC03/LP01/R001_3
 msgid "ALCOHOLS, N.O.S."
-msgstr ""
+msgstr "ALCOLI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1987_F1_3_274/601/640C_1L_P001_2
 msgid "ALCOHOLS, N.O.S. (vapour pressure at 50 °C more than 110 kPa)"
-msgstr ""
+msgstr "ALCOLI, N.A.S. (pressione di vapore a 50 °C superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1987_F1_3_274/601/640D_1L_P001/IBC02/R001_2
 msgid "ALCOHOLS, N.O.S. (vapour pressure at 50 °C not more than 110 kPa)"
-msgstr ""
+msgstr "ALCOLI, N.A.S. (pressione di vapore a 50 °C non superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1988
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1988_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1988_5L
 msgid "ALDEHYDES, FLAMMABLE, TOXIC, N.O.S."
-msgstr ""
+msgstr "ALDEIDI, INFIAMMABILE, TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1989_F1_3_274_5L_P001/IBC03/LP01/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1989_F1_3_274_P001_1
 msgid "ALDEHYDES, N.O.S."
-msgstr ""
+msgstr "ALDEIDI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1989_F1_3_274/640C_1L_P001_2
 msgid "ALDEHYDES, N.O.S. (vapour pressure at 50 °C more than 110 kPa)"
-msgstr ""
+msgstr "ALDEIDI, N.A.S. (pressione di vapore a 50 °C superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1989_F1_3_274/640D_1L_P001/IBC02/R001_2
 msgid "ALDEHYDES, N.O.S. (vapour pressure at 50 °C not more than 110 kPa)"
-msgstr ""
+msgstr "ALDEIDI, N.A.S. (pressione di vapore a 50 °C non superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2839
 msgid "ALDOL"
-msgstr ""
+msgstr "ALDOLO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3206_SC4_4dot2/8_182/274_P002/IBC08/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3206_SC4_4dot2/8_182/274_P410/IBC05_2
 msgid "ALKALI METAL ALCOHOLATES, SELF-HEATING, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "ALCOLATI DI METALLI ALCALINI, AUTORISCALDANTI, CORROSIVI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1421
 msgid "ALKALI METAL ALLOY, LIQUID, N.O.S."
-msgstr ""
+msgstr "LEGA DI METALLO ALCALI, LIQUIDO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1389
 msgid "ALKALI METAL AMALGAM, LIQUID"
-msgstr ""
+msgstr "AMALGAMA DI METALLI ALCALI, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3401
@@ -957,12 +960,12 @@ msgstr "ALKALI METAL AMALGAM, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1390
 msgid "ALKALI METAL AMIDES"
-msgstr ""
+msgstr "AMMIDI DI METALLI ALCALINI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1391
 msgid "ALKALI METAL DISPERSION or ALKALINE EARTH METAL DISPERSION"
-msgstr ""
+msgstr "DISPERSIONE DI METALLI ALCALI o DISPERSIONE DI METALLI ALCALINO-TERROSI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3482
@@ -970,6 +973,8 @@ msgid ""
 "ALKALI METAL DISPERSION, FLAMMABLE or ALKALINE EARTH METAL DISPERSION, "
 "FLAMMABLE"
 msgstr ""
+"DISPERSIONE DI METALLI ALCALINI, INFIAMMABILE o DISPERSIONE DI METALLI "
+"ALCALINO-TERROSI, INFIAMMABILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3402
@@ -980,24 +985,24 @@ msgstr "ALKALINE  EARTH METAL AMALGAM, SOLIDO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3205_S4_4dot2_183/274_P002/IBC08/LP02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3205_S4_4dot2_183/274_P410/IBC06_2
 msgid "ALKALINE EARTH METAL ALCOHOLATES, N.O.S."
-msgstr ""
+msgstr "ALCOLATI DEI METALLI ALCALINO-TERROSI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1393
 msgid "ALKALINE EARTH METAL ALLOY, N.O.S."
-msgstr ""
+msgstr "LEGA DI METALLI ALCALINO-TERROSI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1392
 msgid "ALKALINE EARTH METAL AMALGAM, LIQUID"
-msgstr ""
+msgstr "AMALGAMA DI METALLI ALCALINO-TERROSI, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3140
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3140_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3140_5L
 msgid "ALKALOIDS, LIQUID, N.O.S. or ALKALOID SALTS, LIQUID, N.O.S."
-msgstr ""
+msgstr "ALCALOIDI, LIQUIDI, N.A.S. o SALI DI ALCALOIDI, LIQUIDI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1544
@@ -1011,7 +1016,7 @@ msgstr "ALKALOIDS, SOLIDO, N.O.S. or ALKALOID SALTS, SOLIDO, N.O.S."
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3145_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3145_5L
 msgid "ALKYLPHENOLS, LIQUID, N.O.S. (including C2-C12 homologues)"
-msgstr ""
+msgstr "ALCHILFENOLI, LIQUIDI, N.A.S. (compresi gli omologhi C2-C12)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2430
@@ -1026,6 +1031,8 @@ msgid ""
 "ALKYLSULPHONIC ACIDS, LIQUID or ARYLSULPHONIC ACIDS, LIQUID with more than "
 "5% free sulphuric acid"
 msgstr ""
+"ACIDI ALCHILSOLFONICI, LIQUIDI o ACIDI ARILSOLFONICI, LIQUIDI con più del 5% "
+"di acido solforico libero"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2586
@@ -1033,6 +1040,8 @@ msgid ""
 "ALKYLSULPHONIC ACIDS, LIQUID or ARYLSULPHONIC ACIDS, LIQUID with not more "
 "than 5% free sulphuric acid"
 msgstr ""
+"ACIDI ALCHILSOLFONICI, LIQUIDI o ACIDI ARILSOLFONICI, LIQUIDI con non più "
+"del 5% di acido solforico libero"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2583
@@ -1055,7 +1064,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2571
 msgid "ALKYLSULPHURIC ACIDS"
-msgstr ""
+msgstr "ACIDI ALCHILSOLFORICI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2333

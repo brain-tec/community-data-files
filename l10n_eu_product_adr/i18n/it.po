@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-10 18:06+0000\n"
+"PO-Revision-Date: 2024-12-12 18:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -1069,150 +1069,152 @@ msgstr "ACIDI ALCHILSOLFORICI"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2333
 msgid "ALLYL ACETATE"
-msgstr ""
+msgstr "ACETATO DI ALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1098
 msgid "ALLYL ALCOHOL"
-msgstr ""
+msgstr "ALCOOL ALLILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1099
 msgid "ALLYL BROMIDE"
-msgstr ""
+msgstr "BROMURO DI ALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1100
 msgid "ALLYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI ALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1722
 msgid "ALLYL CHLOROFORMATE"
-msgstr ""
+msgstr "CLOROFORMIATO DI ALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2335
 msgid "ALLYL ETHYL ETHER"
-msgstr ""
+msgstr "ETERE ALLILICETILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2336
 msgid "ALLYL FORMATE"
-msgstr ""
+msgstr "FORMATO DI ALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2219
 msgid "ALLYL GLYCIDYL ETHER"
-msgstr ""
+msgstr "ALLIL GLICIDIL ETERE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1723
 msgid "ALLYL IODIDE"
-msgstr ""
+msgstr "IODURO DI ALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1545
 msgid "ALLYL ISOTHIOCYANATE, STABILIZED"
-msgstr ""
+msgstr "ISOTIOCIANATO DI ALLILE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2334
 msgid "ALLYLAMINE"
-msgstr ""
+msgstr "ALLILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1724
 msgid "ALLYLTRICHLOROSILANE, STABILIZED"
-msgstr ""
+msgstr "ALLILTRICLOROSILANO, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2870_SW_4dot2/4dot3_P400_0
 msgid "ALUMINIUM BOROHYDRIDE"
-msgstr ""
+msgstr "BOROIDRURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2870_SW_4dot2/4dot3_P002_0
 msgid "ALUMINIUM BOROHYDRIDE IN DEVICES"
-msgstr ""
+msgstr "BOROIDRURO DI ALLUMINIO NEI DISPOSITIVI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2580
 msgid "ALUMINIUM BROMIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI BROMURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1725
 msgid "ALUMINIUM BROMIDE, ANHYDROUS"
-msgstr ""
+msgstr "BROMURO DI ALLUMINIO, ANIDRO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1394
 msgid "ALUMINIUM CARBIDE"
-msgstr ""
+msgstr "CARBURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2581
 msgid "ALUMINIUM CHLORIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CLORURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1726
 msgid "ALUMINIUM CHLORIDE, ANHYDROUS"
-msgstr ""
+msgstr "CLORURO DI ALLUMINIO, ANIDRO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1395
 msgid "ALUMINIUM FERROSILICON POWDER"
-msgstr ""
+msgstr "POLVERE DI FERROSILICIO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2463
 msgid "ALUMINIUM HYDRIDE"
-msgstr ""
+msgstr "IDRURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1438
 msgid "ALUMINIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1397
 msgid "ALUMINIUM PHOSPHIDE"
-msgstr ""
+msgstr "FOSFURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3048
 msgid "ALUMINIUM PHOSPHIDE PESTICIDE"
-msgstr ""
+msgstr "PESTICIDA AL FOSFURO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1309_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1309_5kg
 msgid "ALUMINIUM POWDER, COATED"
-msgstr ""
+msgstr "POLVERE DI ALLUMINIO, RIVESTITA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1396_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1396_500g
 msgid "ALUMINIUM POWDER, UNCOATED"
-msgstr ""
+msgstr "POLVERE DI ALLUMINIO, NON RIVESTITA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2715
 msgid "ALUMINIUM RESINATE"
-msgstr ""
+msgstr "RESINATO DI ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1398
 msgid "ALUMINIUM SILICON POWDER, UNCOATED"
-msgstr ""
+msgstr "POLVERE DI ALLUMINIO E SILICIO, NON RIVESTITA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3170_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3170_500g
 msgid "ALUMINIUM SMELTING BY-PRODUCTS or ALUMINIUM REMELTING BY-PRODUCTS"
 msgstr ""
+"SOTTOPRODOTTI DELLA FUSIONE DELL'ALLUMINIO o SOTTOPRODOTTI DELLA RIFUSIONE "
+"DELL'ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2733
@@ -1222,6 +1224,8 @@ msgid ""
 "AMINES, FLAMMABLE, CORROSIVE, N.O.S. or POLYAMINES, FLAMMABLE, CORROSIVE, "
 "N.O.S."
 msgstr ""
+"AMMINE, INFIAMMABILI, CORROSIVE, N.A.S. o POLIAMMINE, INFIAMMABILI, "
+"CORROSIVE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2734
@@ -1230,6 +1234,8 @@ msgid ""
 "AMINES, LIQUID, CORROSIVE, FLAMMABLE, N.O.S. or POLYAMINES, LIQUID, "
 "CORROSIVE, FLAMMABLE, N.O.S."
 msgstr ""
+"AMMINE, LIQUIDE, CORROSIVE, INFIAMMABILI, N.A.S. o POLIAMMINE, LIQUIDE, "
+"CORROSIVE, INFIAMMABILI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2735
@@ -1238,6 +1244,7 @@ msgstr ""
 msgid ""
 "AMINES, LIQUID, CORROSIVE, N.O.S. or POLYAMINES, LIQUID, CORROSIVE, N.O.S."
 msgstr ""
+"AMMINE, LIQUIDE, CORROSIVE, N.A.S. o POLIAMMINE, LIQUIDE, CORROSIVE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3259
@@ -1251,7 +1258,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2512
 msgid "AMINOPHENOLS (o-, m-, p-)"
-msgstr ""
+msgstr "AMMINOFENOLI (o-, m-, p-)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2671
@@ -1264,6 +1271,8 @@ msgid ""
 "AMMONIA SOLUTION, relative density between 0.880 and 0.957 at 15 °C in "
 "water, with more than 10% but not more than 35% ammonia"
 msgstr ""
+"SOLUZIONE DI AMMONIACA, densità relativa compresa tra 0,880 e 0,957 a 15 °C "
+"in acqua, con più del 10% ma non più del 35% di ammoniaca"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2073
@@ -1271,6 +1280,8 @@ msgid ""
 "AMMONIA SOLUTION, relative density less than 0.880 at 15  °C  in water, with"
 " more than 35% but not more than 50% ammonia"
 msgstr ""
+"SOLUZIONE DI AMMONIACA, densità relativa inferiore a 0,880 a 15 °C in acqua, "
+"con più del 35% ma non più del 50% di ammoniaca"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3318
@@ -1278,27 +1289,29 @@ msgid ""
 "AMMONIA SOLUTION, relative density less than 0.880 at 15 °C in water, with "
 "more than 50% ammonia"
 msgstr ""
+"SOLUZIONE DI AMMONIACA, densità relativa inferiore a 0,880 a 15 °C in acqua, "
+"con più del 50% di ammoniaca"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1005
 msgid "AMMONIA, ANHYDROUS"
-msgstr ""
+msgstr "AMMONIACA, ANIDRA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1546
 msgid "AMMONIUM ARSENATE"
-msgstr ""
+msgstr "ARSENIATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1439
 msgid "AMMONIUM DICHROMATE"
-msgstr ""
+msgstr "DICROMATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3424_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3424_5L
 msgid "AMMONIUM DINITRO-o-CRESOLATE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI DINITRO-O-CRESOLATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1843
@@ -1308,23 +1321,23 @@ msgstr "AMMONIUM DINITRO-o-CRESOLATE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2505
 msgid "AMMONIUM FLUORIDE"
-msgstr ""
+msgstr "FLUORURO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2854
 msgid "AMMONIUM FLUOROSILICATE"
-msgstr ""
+msgstr "FLUOROSILICATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2506
 msgid "AMMONIUM HYDROGEN SULPHATE"
-msgstr ""
+msgstr "SOLFATO DI AMMONIO IDROGENO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2817_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2817_5L
 msgid "AMMONIUM HYDROGENDIFLUORIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI IDROGENDIFLUORURO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1727
@@ -1334,17 +1347,17 @@ msgstr "AMMONIUM HYDROGENDIFLUORIDE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2859
 msgid "AMMONIUM METAVANADATE"
-msgstr ""
+msgstr "METAVANADATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0222
 msgid "AMMONIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2067
 msgid "AMMONIUM NITRATE BASED FERTILIZER"
-msgstr ""
+msgstr "FERTILIZZANTE A BASE DI NITRATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2071
@@ -1355,6 +1368,11 @@ msgid ""
 "combustible/organic material calculated as carbon or with not more than 45% "
 "ammonium nitrate and unrestricted combustible material"
 msgstr ""
+"FERTILIZZANTE A BASE DI NITRATO DI AMMONIO, miscele uniformi del tipo azoto/"
+"fosfato, azoto/potassio o azoto/fosfato/potassio, contenenti non più del 70% "
+"di nitrato di ammonio e non più dello 0,4% di materiale combustibile/"
+"organico totale calcolato come carbonio o con non più del 45% di nitrato di "
+"ammonio e materiale combustibile non limitato"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3375_O1_5dot1_309_P505/IBC02_2
@@ -1362,6 +1380,8 @@ msgid ""
 "AMMONIUM NITRATE EMULSION or SUSPENSION or GEL, intermediate for blasting "
 "explosives, liquid"
 msgstr ""
+"EMULSIONE o SOSPENSIONE o GEL di NITRATO DI AMMONIO, intermedio per "
+"esplosivi da brillamento, liquido"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3375_O2_5dot1_309_P505/IBC02_2
@@ -1379,6 +1399,9 @@ msgid ""
 "any organic substance calculated as carbon, to the exclusion of any other "
 "added substance"
 msgstr ""
+"NITRATO DI AMMONIO con non più dello 0,2% di sostanze combustibili, compresa "
+"qualsiasi sostanza organica calcolata come carbonio, ad esclusione di "
+"qualsiasi altra sostanza aggiunta"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2426
@@ -1386,43 +1409,46 @@ msgid ""
 "AMMONIUM NITRATE, LIQUID, hot concentrated solution, in a concentration of "
 "more than 80% but not more than 93%"
 msgstr ""
+"NITRATO DI AMMONIO, LIQUIDO, soluzione concentrata a caldo, in una "
+"concentrazione superiore all'80% ma non superiore al 93%"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0402
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1442
 msgid "AMMONIUM PERCHLORATE"
-msgstr ""
+msgstr "PERCLORATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1444
 msgid "AMMONIUM PERSULPHATE"
-msgstr ""
+msgstr "PERSOLFATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0004_1dot1D_1_P112a/P112b/P112c_1
 msgid "AMMONIUM PICRATE dry or wetted with less than 10% water, by mass"
 msgstr ""
+"PICRATE DI AMMONIO secco o inumidito con meno del 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1310
 msgid "AMMONIUM PICRATE, WETTED with not less than 10% water, by mass"
-msgstr ""
+msgstr "PICRATE DI AMMONIO, BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2818_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2818_5L
 msgid "AMMONIUM POLYSULPHIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI POLISOLFURO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2861
 msgid "AMMONIUM POLYVANADATE"
-msgstr ""
+msgstr "POLIVANADATO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2683
 msgid "AMMONIUM SULPHIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI SOLFURO DI AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0171
@@ -1432,6 +1458,8 @@ msgid ""
 "AMMUNITION, ILLUMINATING with or without burster, expelling charge or "
 "propelling charge"
 msgstr ""
+"MUNIZIONI, ILLUMINANTI con o senza carica di scoppio, carica di espulsione o "
+"carica propulsiva"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0009
@@ -1441,6 +1469,8 @@ msgid ""
 "AMMUNITION, INCENDIARY with or without burster, expelling charge or "
 "propelling charge"
 msgstr ""
+"MUNIZIONI INCENDIARIE con o senza carica di scoppio, di espulsione o di "
+"propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0243
@@ -1449,6 +1479,8 @@ msgid ""
 "AMMUNITION, INCENDIARY, WHITE PHOSPHORUS with burster, expelling charge or "
 "propelling charge"
 msgstr ""
+"MUNIZIONI INCENDIARIE AL FOSFORO BIANCO con carica di scoppio, di espulsione "
+"o di propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0247
@@ -1456,17 +1488,19 @@ msgid ""
 "AMMUNITION, INCENDIARY, liquid or gel, with burster, expelling charge or "
 "propelling charge"
 msgstr ""
+"MUNIZIONI INCENDIARIE, liquide o in gel, con carica di scoppio, di "
+"espulsione o di propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0362
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0488
 msgid "AMMUNITION, PRACTICE"
-msgstr ""
+msgstr "MUNIZIONI, PRATICA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0363
 msgid "AMMUNITION, PROOF"
-msgstr ""
+msgstr "MUNIZIONI, PROVA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0015_1dot2G_1_P130/LP101_1
@@ -1476,6 +1510,8 @@ msgid ""
 "AMMUNITION, SMOKE with or without burster, expelling charge or propelling "
 "charge"
 msgstr ""
+"MUNIZIONI, FUMO con o senza carica di scoppio, carica di espulsione o carica "
+"propulsiva"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0303_1dot4G_1dot4/6dot1_P130/LP101_2
@@ -1483,6 +1519,8 @@ msgid ""
 "AMMUNITION, SMOKE with or without burster, expelling charge or propelling "
 "charge,  containing toxic by inhalation substances"
 msgstr ""
+"MUNIZIONI, FUMO con o senza carica di scoppio, di espulsione o di "
+"propulsione, contenenti sostanze tossiche per inalazione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0015_1dot2G_1/8_P130/LP101_1
@@ -1492,6 +1530,8 @@ msgid ""
 "AMMUNITION, SMOKE with or without burster, expelling charge or propelling "
 "charge, containing corrosive substances"
 msgstr ""
+"MUNIZIONI, FUMO con o senza carica di scoppio, di espulsione o di "
+"propulsione, contenenti sostanze corrosive"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0015_1dot2G_1/6dot1_P130/LP101_1
@@ -1500,6 +1540,8 @@ msgid ""
 "AMMUNITION, SMOKE with or without burster, expelling charge or propelling "
 "charge, containing toxic by inhalation substances"
 msgstr ""
+"MUNIZIONI, FUMO con o senza carica di scoppio, di espulsione o di "
+"propulsione, contenenti sostanze tossiche per inalazione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0245
@@ -1508,6 +1550,8 @@ msgid ""
 "AMMUNITION, SMOKE, WHITE PHOSPHORUS with burster, expelling charge or "
 "propelling charge"
 msgstr ""
+"MUNIZIONI, FUMO, FOSFORO BIANCO con carica di scoppio, di espulsione o di "
+"propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0018
@@ -1517,6 +1561,7 @@ msgid ""
 "AMMUNITION, TEAR-PRODUCING with burster, expelling charge or propelling "
 "charge"
 msgstr ""
+"MUNIZIONI LACRIMOGENE con carica di scoppio, di espulsione o di propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2017
@@ -1524,12 +1569,15 @@ msgid ""
 "AMMUNITION, TEAR-PRODUCING, NON-EXPLOSIVE without burster or expelling "
 "charge, non-fuzed"
 msgstr ""
+"MUNIZIONI LACRIMOGENE, NON ESPLOSIVE senza carica di scoppio o di "
+"espulsione, senza spoletta"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0020
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0021
 msgid "AMMUNITION, TOXIC with burster, expelling charge or propelling charge"
 msgstr ""
+"MUNIZIONI, TOSSICHE con carica di scoppio, di espulsione o di propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2016
@@ -1537,57 +1585,59 @@ msgid ""
 "AMMUNITION, TOXIC, NON-EXPLOSIVE without burster or expelling charge, non-"
 "fuzed"
 msgstr ""
+"MUNIZIONI, TOSSICHE, NON ESPLOSIVE senza carica di scoppio o di espulsione, "
+"non innestate"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1104
 msgid "AMYL ACETATES"
-msgstr ""
+msgstr "ACETATI DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2819
 msgid "AMYL ACID PHOSPHATE"
-msgstr ""
+msgstr "FOSFATO DELL'ACIDO AMILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2620
 msgid "AMYL BUTYRATES"
-msgstr ""
+msgstr "BUTIRRATI DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1107
 msgid "AMYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1109
 msgid "AMYL FORMATES"
-msgstr ""
+msgstr "FORMATI DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1111
 msgid "AMYL MERCAPTAN"
-msgstr ""
+msgstr "AMIL MERCAPTAN"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1112
 msgid "AMYL NITRATE"
-msgstr ""
+msgstr "NITRATO DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1113
 msgid "AMYL NITRITE"
-msgstr ""
+msgstr "NITRITO DI AMILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1106_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1106_5L
 msgid "AMYLAMINE"
-msgstr ""
+msgstr "AMILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1728
 msgid "AMYLTRICHLOROSILANE"
-msgstr ""
+msgstr "AMILTRICLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1547

@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-community-data-files"
-version = "18.0.20241119.0"
+version = "18.0.20241213.0"
 dependencies = [
     "odoo-addon-l10n_eu_product_adr==18.0.*",
+    "odoo-addon-uom_unece==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",

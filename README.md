@@ -26,16 +26,16 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [account_payment_unece](account_payment_unece/) | 14.0.1.0.0 |  | UNECE nomenclature for the payment methods
-[account_tax_unece](account_tax_unece/) | 14.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | UNECE nomenclature for taxes
+[account_tax_unece](account_tax_unece/) | 14.0.1.0.0 | <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | UNECE nomenclature for taxes
 [base_bank_from_iban](base_bank_from_iban/) | 14.0.1.0.2 |  | Bank from IBAN
 [base_currency_iso_4217](base_currency_iso_4217/) | 14.0.1.0.0 |  | Adds numeric code and full name to currencies, following the ISO 4217 specification
 [base_iso3166](base_iso3166/) | 14.0.1.0.1 |  | ISO 3166
-[base_unece](base_unece/) | 14.0.1.1.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Base module for UNECE code lists
+[base_unece](base_unece/) | 14.0.1.1.0 | <a href='https://github.com/astirpe'><img src='https://github.com/astirpe.png' width='32' height='32' style='border-radius:50%;' alt='astirpe'/></a> <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | Base module for UNECE code lists
 [l10n_eu_nace](l10n_eu_nace/) | 14.0.1.0.1 |  | European NACE partner categories
 [l10n_eu_product_adr](l10n_eu_product_adr/) | 14.0.1.1.0 |  | Allows to set appropriate danger class and components
-[l10n_eu_product_adr_dangerous_goods](l10n_eu_product_adr_dangerous_goods/) | 14.0.1.0.0 | [![mmequignon](https://github.com/mmequignon.png?size=30px)](https://github.com/mmequignon) | l10n Eu Product Adr Dangerous Goods
+[l10n_eu_product_adr_dangerous_goods](l10n_eu_product_adr_dangerous_goods/) | 14.0.1.0.0 | <a href='https://github.com/mmequignon'><img src='https://github.com/mmequignon.png' width='32' height='32' style='border-radius:50%;' alt='mmequignon'/></a> | l10n Eu Product Adr Dangerous Goods
 [product_fao_fishing](product_fao_fishing/) | 14.0.1.0.1 |  | Set fishing areas and capture technology
-[uom_unece](uom_unece/) | 14.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | UNECE nomenclature for the units of measure
+[uom_unece](uom_unece/) | 14.0.1.0.0 | <a href='https://github.com/astirpe'><img src='https://github.com/astirpe.png' width='32' height='32' style='border-radius:50%;' alt='astirpe'/></a> <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | UNECE nomenclature for the units of measure
 
 [//]: # (end addons)
 

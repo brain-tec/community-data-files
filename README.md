@@ -17,7 +17,11 @@ community-data-files
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[base_bank_from_iban](base_bank_from_iban/) | 19.0.1.0.0 |  | Bank from IBAN
 
 [//]: # (end addons)
 

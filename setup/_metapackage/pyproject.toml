@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-community-data-files"
-version = "18.0.20250909.0"
+version = "18.0.20260115.0"
 dependencies = [
     "odoo-addon-account_payment_unece==18.0.*",
     "odoo-addon-account_tax_unece==18.0.*",
@@ -11,6 +11,7 @@ dependencies = [
     "odoo-addon-l10n_eu_nace==18.0.*",
     "odoo-addon-l10n_eu_product_adr==18.0.*",
     "odoo-addon-l10n_eu_product_adr_dangerous_goods==18.0.*",
+    "odoo-addon-product_allergen==18.0.*",
     "odoo-addon-product_fao_fishing==18.0.*",
     "odoo-addon-uom_unece==18.0.*",
 ]
